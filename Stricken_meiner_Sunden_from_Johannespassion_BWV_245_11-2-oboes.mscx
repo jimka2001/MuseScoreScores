@@ -15960,7 +15960,6 @@
           <Articulation>
             <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
-            <pos x="0.658281" y="-3.90049"/>
             </Articulation>
           <Note>
             <pitch>78</pitch>
@@ -20637,7 +20636,6 @@
           <Articulation>
             <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
-            <pos x="1.16255" y="-2.175"/>
             </Articulation>
           <Note>
             <Accidental>
