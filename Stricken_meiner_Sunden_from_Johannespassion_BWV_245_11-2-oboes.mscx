@@ -444,6 +444,10 @@
           <followText>1</followText>
           <text><sym>unicodeNoteQuarterUp</sym> = 60</text>
           </Tempo>
+        <Dynamic>
+          <subtype>mp</subtype>
+          <velocity>64</velocity>
+          </Dynamic>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
@@ -4892,6 +4896,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>mp</subtype>
+          <velocity>64</velocity>
+          </Dynamic>
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
@@ -9267,6 +9275,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>mf</subtype>
+          <velocity>80</velocity>
+          </Dynamic>
         <Rest>
           <durationType>measure</durationType>
           <duration z="3" n="4"/>
@@ -21215,6 +21227,10 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Dynamic>
+          <subtype>mp</subtype>
+          <velocity>64</velocity>
+          </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
