@@ -1145,6 +1145,11 @@
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
+          <Note>
+            <lid>1248</lid>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            </Note>
           </Chord>
         </Measure>
       <Measure number="33">
@@ -7787,6 +7792,11 @@
               <lid>133</lid>
               <pitch>59</pitch>
               <tpc>19</tpc>
+              </Note>
+            <Note>
+              <lid>1248</lid>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </Measure>
