@@ -9,7 +9,6 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <concertPitch>1</concertPitch>
       <page-layout>
         <page-height>1683.36</page-height>
         <page-width>1190.88</page-width>
@@ -178,16 +177,18 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <trackName>Oboe</trackName>
+      <trackName>E♭ Clarinet</trackName>
       <Instrument>
-        <longName>Oboe</longName>
-        <shortName>Ob.</shortName>
-        <trackName>Oboe</trackName>
-        <minPitchP>58</minPitchP>
-        <maxPitchP>93</maxPitchP>
-        <minPitchA>58</minPitchA>
-        <maxPitchA>87</maxPitchA>
-        <instrumentId>wind.reed.oboe</instrumentId>
+        <longName>E♭ Clarinet</longName>
+        <shortName>E♭ Cl.</shortName>
+        <trackName>E♭ Clarinet</trackName>
+        <minPitchP>55</minPitchP>
+        <maxPitchP>99</maxPitchP>
+        <minPitchA>55</minPitchA>
+        <maxPitchA>94</maxPitchA>
+        <transposeDiatonic>2</transposeDiatonic>
+        <transposeChromatic>3</transposeChromatic>
+        <instrumentId>wind.reed.clarinet.eflat</instrumentId>
         <Articulation>
           <velocity>100</velocity>
           <gateTime>100</gateTime>
@@ -217,7 +218,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="68"/>
+          <program value="71"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -4393,7 +4394,7 @@
     <Staff id="2">
       <Measure number="1">
         <KeySig>
-          <accidental>-1</accidental>
+          <accidental>2</accidental>
           </KeySig>
         <TimeSig>
           <sigN>12</sigN>
@@ -4420,6 +4421,7 @@
               </Tie>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4428,6 +4430,7 @@
             <endSpanner id="41"/>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4435,6 +4438,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4442,6 +4446,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4449,6 +4454,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4456,6 +4462,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4463,6 +4470,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4470,12 +4478,13 @@
           <durationType>quarter</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <Tie id="42">
               </Tie>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4484,6 +4493,7 @@
             <endSpanner id="42"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4491,6 +4501,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4498,6 +4509,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4505,6 +4517,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4512,6 +4525,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4519,6 +4533,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -4528,6 +4543,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4535,6 +4551,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4542,6 +4559,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4549,6 +4567,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4558,6 +4577,7 @@
               </Tie>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4566,6 +4586,7 @@
             <endSpanner id="43"/>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4573,6 +4594,66 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
+            <pitch>83</pitch>
+            <tpc>19</tpc>
+            <tpc2>22</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>81</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
+            <tpc2>18</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>77</pitch>
+            <tpc>13</tpc>
+            <tpc2>16</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <tpc2>21</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
+            <tpc2>18</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>81</pitch>
+            <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4581,60 +4662,9 @@
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>83</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>81</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4644,6 +4674,7 @@
               </Tie>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4652,16 +4683,18 @@
             <endSpanner id="44"/>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>87</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4669,6 +4702,7 @@
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4676,6 +4710,7 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4683,6 +4718,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4690,6 +4726,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -4699,6 +4736,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -4719,6 +4757,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4726,6 +4765,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4733,6 +4773,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4742,6 +4783,7 @@
               </Tie>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4750,6 +4792,7 @@
             <endSpanner id="45"/>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4757,6 +4800,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4764,6 +4808,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4771,6 +4816,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4778,6 +4824,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4785,6 +4832,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -4797,6 +4845,7 @@
               </Accidental>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4804,6 +4853,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4811,6 +4861,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4818,16 +4869,18 @@
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4835,6 +4888,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4842,6 +4896,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -4858,6 +4913,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4865,6 +4921,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4872,6 +4929,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4879,6 +4937,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4886,6 +4945,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4895,6 +4955,7 @@
               </Tie>
             <pitch>88</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -4917,6 +4978,7 @@
               </Tie>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4925,6 +4987,7 @@
             <endSpanner id="47"/>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4932,6 +4995,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4939,6 +5003,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4946,6 +5011,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4953,6 +5019,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4960,6 +5027,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -4975,6 +5043,7 @@
               </Tie>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4983,16 +5052,18 @@
             <endSpanner id="48"/>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5000,6 +5071,7 @@
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5007,6 +5079,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5014,6 +5087,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5021,6 +5095,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5028,6 +5103,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5035,6 +5111,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5042,6 +5119,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5049,6 +5127,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5059,6 +5138,7 @@
             <endSpanner id="46"/>
             <pitch>88</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5067,6 +5147,7 @@
             <endSpanner id="49"/>
             <pitch>88</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5074,6 +5155,7 @@
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5084,16 +5166,18 @@
               </Accidental>
             <pitch>85</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>83</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5101,6 +5185,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5108,6 +5193,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5120,6 +5206,7 @@
               </Tie>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5128,6 +5215,7 @@
             <endSpanner id="50"/>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5135,6 +5223,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5142,6 +5231,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5149,6 +5239,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5156,6 +5247,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5163,6 +5255,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5173,6 +5266,7 @@
               </Tie>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5181,6 +5275,7 @@
             <endSpanner id="51"/>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5188,6 +5283,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5195,6 +5291,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5202,6 +5299,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5209,6 +5307,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5216,6 +5315,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5225,6 +5325,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5232,6 +5333,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5239,6 +5341,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5246,6 +5349,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5253,6 +5357,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5260,6 +5365,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5270,6 +5376,7 @@
               </Tie>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5278,6 +5385,7 @@
             <endSpanner id="52"/>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5285,6 +5393,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5292,6 +5401,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5302,6 +5412,7 @@
               </Accidental>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5309,6 +5420,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5316,6 +5428,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5323,6 +5436,7 @@
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5330,6 +5444,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5340,6 +5455,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -5355,6 +5471,7 @@
               </Tie>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5363,6 +5480,7 @@
             <endSpanner id="53"/>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5370,6 +5488,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5377,6 +5496,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5384,16 +5504,18 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>83</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5401,6 +5523,7 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5408,6 +5531,7 @@
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5415,6 +5539,7 @@
           <Note>
             <pitch>88</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5422,6 +5547,7 @@
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5429,6 +5555,7 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5436,6 +5563,7 @@
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5443,6 +5571,7 @@
           <Note>
             <pitch>83</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5452,6 +5581,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5459,6 +5589,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5466,6 +5597,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5473,6 +5605,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5482,6 +5615,7 @@
               </Tie>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5490,6 +5624,7 @@
             <endSpanner id="54"/>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5497,6 +5632,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5504,6 +5640,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5511,6 +5648,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5518,6 +5656,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5525,6 +5664,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5532,6 +5672,7 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5539,6 +5680,7 @@
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5546,6 +5688,7 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5553,6 +5696,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5560,6 +5704,7 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5567,6 +5712,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5576,6 +5722,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5583,6 +5730,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5590,6 +5738,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5597,6 +5746,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5604,6 +5754,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5611,16 +5762,18 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5628,6 +5781,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5635,6 +5789,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5642,6 +5797,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5649,6 +5805,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5656,6 +5813,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5666,6 +5824,7 @@
               </Tie>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5674,6 +5833,7 @@
             <endSpanner id="55"/>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5681,6 +5841,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5688,6 +5849,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5695,6 +5857,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5702,6 +5865,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5710,10 +5874,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -5746,6 +5911,7 @@
               </Tie>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5754,16 +5920,18 @@
             <endSpanner id="56"/>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5771,6 +5939,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5778,6 +5947,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5785,6 +5955,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5792,6 +5963,7 @@
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5805,6 +5977,7 @@
               </Tie>
             <pitch>66</pitch>
             <tpc>20</tpc>
+            <tpc2>23</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5813,6 +5986,7 @@
             <endSpanner id="57"/>
             <pitch>66</pitch>
             <tpc>20</tpc>
+            <tpc2>23</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5820,6 +5994,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5827,6 +6002,7 @@
           <Note>
             <pitch>66</pitch>
             <tpc>20</tpc>
+            <tpc2>23</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5834,6 +6010,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5841,6 +6018,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5848,6 +6026,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5857,16 +6036,18 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5874,6 +6055,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5881,6 +6063,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5890,6 +6073,7 @@
               </Tie>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5898,6 +6082,7 @@
             <endSpanner id="58"/>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5905,6 +6090,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5915,6 +6101,7 @@
               </Accidental>
             <pitch>78</pitch>
             <tpc>20</tpc>
+            <tpc2>23</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5922,6 +6109,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5929,6 +6117,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5936,6 +6125,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5943,6 +6133,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -5958,16 +6149,18 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5975,6 +6168,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5984,6 +6178,7 @@
               </Tie>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5992,6 +6187,7 @@
             <endSpanner id="59"/>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5999,6 +6195,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6006,6 +6203,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6013,6 +6211,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6020,6 +6219,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6027,6 +6227,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6034,6 +6235,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -6049,6 +6251,7 @@
               </Tie>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6057,6 +6260,7 @@
             <endSpanner id="60"/>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6064,6 +6268,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6071,6 +6276,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6078,6 +6284,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6085,6 +6292,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6092,6 +6300,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6105,6 +6314,7 @@
               </Tie>
             <pitch>68</pitch>
             <tpc>22</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6113,6 +6323,7 @@
             <endSpanner id="61"/>
             <pitch>68</pitch>
             <tpc>22</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6123,6 +6334,7 @@
               </Accidental>
             <pitch>66</pitch>
             <tpc>20</tpc>
+            <tpc2>23</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6130,6 +6342,7 @@
           <Note>
             <pitch>68</pitch>
             <tpc>22</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6137,16 +6350,18 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6154,6 +6369,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -6163,6 +6379,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6170,6 +6387,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6177,6 +6395,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6184,18 +6403,20 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <Tie id="62">
               </Tie>
             <pitch>83</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6204,6 +6425,7 @@
             <endSpanner id="62"/>
             <pitch>83</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6211,6 +6433,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6221,6 +6444,7 @@
               </Accidental>
             <pitch>80</pitch>
             <tpc>22</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6228,6 +6452,7 @@
           <Note>
             <pitch>83</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6235,6 +6460,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6242,6 +6468,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6249,6 +6476,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6256,6 +6484,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6263,6 +6492,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6270,16 +6500,18 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6287,6 +6519,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6294,6 +6527,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -6308,10 +6542,11 @@
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>83</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6319,6 +6554,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6329,6 +6565,7 @@
               </Accidental>
             <pitch>80</pitch>
             <tpc>22</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6339,6 +6576,7 @@
               </Accidental>
             <pitch>78</pitch>
             <tpc>20</tpc>
+            <tpc2>23</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6346,6 +6584,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6353,6 +6592,7 @@
           <Note>
             <pitch>88</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -6368,10 +6608,11 @@
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6379,6 +6620,7 @@
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6386,6 +6628,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6394,18 +6637,20 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <Tie id="63">
               </Tie>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -6416,6 +6661,7 @@
             <endSpanner id="63"/>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6423,16 +6669,18 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6440,6 +6688,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6447,6 +6696,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6454,6 +6704,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6464,6 +6715,7 @@
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6472,6 +6724,7 @@
             <endSpanner id="64"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6479,6 +6732,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6486,6 +6740,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6496,6 +6751,7 @@
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6503,6 +6759,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6510,6 +6767,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6520,6 +6778,7 @@
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -6530,6 +6789,7 @@
             <endSpanner id="65"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6537,6 +6797,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6544,16 +6805,18 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6561,6 +6824,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6568,6 +6832,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6575,6 +6840,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6582,6 +6848,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6589,6 +6856,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6596,6 +6864,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6603,6 +6872,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6610,6 +6880,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6618,6 +6889,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6625,6 +6897,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6632,6 +6905,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -6642,6 +6916,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -6669,6 +6944,7 @@
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6677,6 +6953,7 @@
             <endSpanner id="66"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6684,16 +6961,18 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6701,6 +6980,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6708,6 +6988,7 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6715,6 +6996,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6722,6 +7004,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6729,6 +7012,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6736,6 +7020,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6743,6 +7028,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6750,6 +7036,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6757,6 +7044,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -6766,6 +7054,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6773,6 +7062,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6780,6 +7070,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6787,6 +7078,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6794,6 +7086,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6801,6 +7094,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6811,6 +7105,7 @@
           <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6821,6 +7116,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6831,6 +7127,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6838,6 +7135,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6845,6 +7143,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6852,6 +7151,7 @@
           <Note>
             <pitch>82</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6859,6 +7159,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -6883,6 +7184,7 @@
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6891,6 +7193,7 @@
             <endSpanner id="67"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6898,6 +7201,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6905,6 +7209,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6912,6 +7217,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6919,6 +7225,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6926,6 +7233,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6933,6 +7241,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6940,6 +7249,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6947,6 +7257,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6954,6 +7265,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6961,6 +7273,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6968,6 +7281,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -6976,10 +7290,11 @@
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6987,6 +7302,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -6994,6 +7310,7 @@
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7001,6 +7318,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7008,6 +7326,7 @@
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7015,6 +7334,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7025,6 +7345,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7035,6 +7356,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7045,6 +7367,7 @@
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7055,6 +7378,7 @@
               </Tie>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7063,6 +7387,7 @@
             <endSpanner id="68"/>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7070,6 +7395,7 @@
           <Note>
             <pitch>75</pitch>
             <tpc>11</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7077,6 +7403,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7084,6 +7411,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7091,6 +7419,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7098,6 +7427,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -7110,6 +7440,7 @@
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7118,6 +7449,7 @@
             <endSpanner id="69"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7125,6 +7457,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7132,6 +7465,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7139,6 +7473,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7146,6 +7481,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7153,6 +7489,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7163,6 +7500,7 @@
               </Tie>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7171,6 +7509,7 @@
             <endSpanner id="70"/>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7178,6 +7517,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7185,6 +7525,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7192,6 +7533,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7199,6 +7541,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7206,6 +7549,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -7218,6 +7562,7 @@
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7226,6 +7571,7 @@
             <endSpanner id="71"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7233,6 +7579,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7240,6 +7587,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7247,6 +7595,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7254,6 +7603,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7261,6 +7611,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7271,6 +7622,7 @@
               </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7279,6 +7631,7 @@
             <endSpanner id="72"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7286,6 +7639,7 @@
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7293,6 +7647,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7300,6 +7655,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7307,6 +7663,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7314,6 +7671,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -7323,6 +7681,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7330,6 +7689,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7337,6 +7697,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7344,6 +7705,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7353,6 +7715,7 @@
               </Tie>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7361,6 +7724,7 @@
             <endSpanner id="73"/>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7368,6 +7732,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7375,6 +7740,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7382,6 +7748,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7389,6 +7756,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7396,6 +7764,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7403,6 +7772,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7410,6 +7780,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7417,6 +7788,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7424,6 +7796,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7431,6 +7804,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7438,6 +7812,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7445,6 +7820,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -7463,6 +7839,7 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7470,6 +7847,7 @@
           <Note>
             <pitch>77</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7477,6 +7855,7 @@
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7484,6 +7863,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7491,6 +7871,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7498,6 +7879,7 @@
           <Note>
             <pitch>84</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -7514,6 +7896,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7521,6 +7904,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7528,6 +7912,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7537,6 +7922,7 @@
               </Tie>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -7547,6 +7933,7 @@
             <endSpanner id="74"/>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7554,6 +7941,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7561,6 +7949,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7568,6 +7957,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7575,6 +7965,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7582,6 +7973,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7592,6 +7984,7 @@
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7600,6 +7993,7 @@
             <endSpanner id="75"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7607,6 +8001,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7614,6 +8009,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7621,6 +8017,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7628,6 +8025,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7635,6 +8033,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7645,6 +8044,7 @@
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -7655,6 +8055,7 @@
             <endSpanner id="76"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7662,6 +8063,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7669,6 +8071,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7676,6 +8079,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7683,6 +8087,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7690,6 +8095,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7697,6 +8103,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7704,6 +8111,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7711,6 +8119,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7718,6 +8127,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7725,6 +8135,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7732,6 +8143,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7740,6 +8152,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7747,6 +8160,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7754,6 +8168,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -7766,6 +8181,7 @@
               </Tie>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7774,6 +8190,7 @@
             <endSpanner id="77"/>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7781,6 +8198,7 @@
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7788,6 +8206,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7795,6 +8214,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7802,6 +8222,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7809,6 +8230,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7819,6 +8241,7 @@
               </Tie>
             <pitch>62</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7827,6 +8250,7 @@
             <endSpanner id="78"/>
             <pitch>62</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7834,6 +8258,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7841,6 +8266,7 @@
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7851,6 +8277,7 @@
               </Accidental>
             <pitch>61</pitch>
             <tpc>21</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7858,6 +8285,7 @@
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7865,6 +8293,7 @@
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -7877,6 +8306,7 @@
               </Tie>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7885,6 +8315,7 @@
             <endSpanner id="79"/>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7892,6 +8323,7 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7899,6 +8331,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7906,6 +8339,7 @@
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7913,6 +8347,7 @@
           <Note>
             <pitch>70</pitch>
             <tpc>12</tpc>
+            <tpc2>15</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7920,6 +8355,7 @@
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7931,6 +8367,7 @@
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -7950,10 +8387,11 @@
           <durationType>quarter</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7965,6 +8403,7 @@
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <BarLine>

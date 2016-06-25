@@ -239,6 +239,7 @@
         <Channel>
           <program value="68"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -18427,8 +18428,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -32523,9 +32524,6 @@
           <durationType>16th</durationType>
           <Slur type="stop" id="358"/>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -32592,12 +32590,8 @@
           <Slur type="stop" id="361"/>
           <Note>
             <track>13</track>
-            <Accidental>
-              <subtype>flat</subtype>
-              <track>13</track>
-              </Accidental>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -33579,8 +33573,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
