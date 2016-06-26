@@ -1916,6 +1916,10 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>prall</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Slur type="stop" id="50"/>
           <Note>
             <pitch>76</pitch>
@@ -4729,8 +4733,11 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -24678,10 +24685,7 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>13</track>
-          <durationType>quarter</durationType>
-          </Rest>
+        <tick>960</tick>
         <Chord>
           <track>13</track>
           <durationType>quarter</durationType>
@@ -33670,13 +33674,10 @@
             </Note>
           </Chord>
         <Rest>
+          <offset x="0.1125" y="2.1375"/>
           <durationType>eighth</durationType>
           </Rest>
-        <tick>203520</tick>
-        <Rest>
-          <track>13</track>
-          <durationType>half</durationType>
-          </Rest>
+        <tick>204480</tick>
         <Chord>
           <track>13</track>
           <durationType>eighth</durationType>
@@ -33686,19 +33687,18 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <track>13</track>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <track>13</track>
-          <durationType>quarter</durationType>
-          </Rest>
         </Measure>
       <Measure number="108">
-        <Rest>
+        <Chord>
           <durationType>quarter</durationType>
-          </Rest>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>63</pitch>
+            <tpc>11</tpc>
+            </Note>
+          </Chord>
         <Slur id="451">
           <track>12</track>
           </Slur>
@@ -33776,20 +33776,6 @@
           <offset x="0" y="2.3625"/>
           <durationType>eighth</durationType>
           </Rest>
-        <tick>205440</tick>
-        <Chord>
-          <track>13</track>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>13</track>
-            <Accidental>
-              <subtype>flat</subtype>
-              <track>13</track>
-              </Accidental>
-            <pitch>63</pitch>
-            <tpc>11</tpc>
-            </Note>
-          </Chord>
         <tick>206400</tick>
         <Chord>
           <track>13</track>
@@ -33803,6 +33789,7 @@
         </Measure>
       <Measure number="109">
         <Rest>
+          <offset x="0" y="2"/>
           <durationType>eighth</durationType>
           </Rest>
         <Slur id="453">
@@ -33873,11 +33860,7 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
-        <tick>207360</tick>
-        <Rest>
-          <track>13</track>
-          <durationType>eighth</durationType>
-          </Rest>
+        <tick>207600</tick>
         <Slur id="454">
           <track>13</track>
           </Slur>
@@ -34009,6 +33992,7 @@
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>trill</subtype>
+            <pos x="0.770781" y="-0.337502"/>
             </Articulation>
           <Note>
             <Accidental>
@@ -34030,6 +34014,14 @@
           <Articulation>
             <subtype>fermata</subtype>
             </Articulation>
+          <Note>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
           <Note>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -34074,26 +34066,6 @@
             <track>13</track>
             <pitch>67</pitch>
             <tpc>15</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>13</track>
-          <durationType>half</durationType>
-          <Articulation>
-            <subtype>fermata</subtype>
-            <pos x="0.806875" y="6.125"/>
-            <track>13</track>
-            <visible>0</visible>
-            </Articulation>
-          <Note>
-            <track>13</track>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Note>
-            <track>13</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
