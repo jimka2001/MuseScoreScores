@@ -229,7 +229,7 @@
         <Tempo>
           <tempo>0.916667</tempo>
           <followText>1</followText>
-          <lid>7</lid>
+          <lid>777</lid>
           <text><sym>unicodeNoteQuarterUp</sym> = 55</text>
           </Tempo>
         <Rest>
@@ -9692,12 +9692,6 @@
             <sigD>4</sigD>
             <showCourtesySig>1</showCourtesySig>
             </TimeSig>
-          <Tempo>
-            <tempo>0.916667</tempo>
-            <followText>1</followText>
-            <lid>7</lid>
-            <text><sym>unicodeNoteQuarterUp</sym> = 55</text>
-            </Tempo>
           <Rest>
             <lid>8</lid>
             <durationType>16th</durationType>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.1.0</programVersion>
-  <programRevision>3543170</programRevision>
+  <programVersion>2.0.3</programVersion>
+  <programRevision>3c7a69d</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -218,9 +218,9 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Tempo>
-          <tempo>1.33333</tempo>
+          <tempo>1.23333</tempo>
           <followText>1</followText>
-          <text><sym>unicodeNoteQuarterUp</sym> = 80</text>
+          <text><sym>unicodeNoteQuarterUp</sym> = 74</text>
           </Tempo>
         <Rest>
           <dots>1</dots>
@@ -1611,15 +1611,21 @@
           </Chord>
         </Measure>
       <Measure number="26">
-        <Slur id="36">
+        <HairPin id="36">
+          <subtype>0</subtype>
+          <beginText>
+            <text>cresc.</text>
+            </beginText>
+          <continueText>
+            <text>(cresc.)</text>
+            </continueText>
+          </HairPin>
+        <Slur id="37">
           <track>0</track>
           </Slur>
-        <HairPin id="37">
-          <subtype>0</subtype>
-          </HairPin>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="start" id="36"/>
+          <Slur type="start" id="37"/>
           <Note>
             <pitch>75</pitch>
             <tpc>23</tpc>
@@ -1627,7 +1633,7 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Slur type="stop" id="36"/>
+          <Slur type="stop" id="37"/>
           <Note>
             <pitch>83</pitch>
             <tpc>19</tpc>
@@ -1680,7 +1686,7 @@
           <subtype>sff</subtype>
           <velocity>0</velocity>
           </Dynamic>
-        <endSpanner id="37"/>
+        <endSpanner id="36"/>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -4506,6 +4512,12 @@
       <Measure number="9">
         <HairPin id="88">
           <subtype>0</subtype>
+          <beginText>
+            <text>cresc.</text>
+            </beginText>
+          <continueText>
+            <text>(cresc.)</text>
+            </continueText>
           </HairPin>
         <Chord>
           <durationType>quarter</durationType>
@@ -5359,6 +5371,12 @@
       <Measure number="26">
         <HairPin id="89">
           <subtype>0</subtype>
+          <beginText>
+            <text>cresc.</text>
+            </beginText>
+          <continueText>
+            <text>(cresc.)</text>
+            </continueText>
           </HairPin>
         <Chord>
           <durationType>quarter</durationType>
@@ -7542,6 +7560,12 @@
           </Chord>
         <HairPin id="93">
           <subtype>0</subtype>
+          <beginText>
+            <text>cresc.</text>
+            </beginText>
+          <continueText>
+            <text>(cresc.)</text>
+            </continueText>
           </HairPin>
         <Chord>
           <durationType>quarter</durationType>
