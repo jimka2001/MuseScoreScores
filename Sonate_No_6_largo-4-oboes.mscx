@@ -9,7 +9,6 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <concertPitch>1</concertPitch>
       <page-layout>
         <page-height>1683.36</page-height>
         <page-width>1190.88</page-width>
@@ -1184,7 +1183,7 @@
     <Staff id="2">
       <Measure number="1">
         <KeySig>
-          <accidental>4</accidental>
+          <accidental>1</accidental>
           </KeySig>
         <TimeSig>
           <sigN>3</sigN>
@@ -2130,7 +2129,7 @@
     <Staff id="3">
       <Measure number="1">
         <KeySig>
-          <accidental>4</accidental>
+          <accidental>5</accidental>
           </KeySig>
         <TimeSig>
           <sigN>3</sigN>
