@@ -4258,6 +4258,11 @@
         <Chord>
           <lid>747</lid>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>trill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            <lid>1019</lid>
+            </Articulation>
           <Slur type="start" id="54"/>
           <Note>
             <lid>748</lid>
@@ -4951,6 +4956,11 @@
         <Chord>
           <lid>887</lid>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>trill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            <lid>1018</lid>
+            </Articulation>
           <Note>
             <lid>888</lid>
             <pitch>73</pitch>
@@ -30653,6 +30663,10 @@
           <Chord>
             <lid>747</lid>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>trill</subtype>
+              <lid>1019</lid>
+              </Articulation>
             <Slur type="start" id="180"/>
             <Note>
               <lid>748</lid>
@@ -31361,6 +31375,10 @@
           <Chord>
             <lid>887</lid>
             <durationType>quarter</durationType>
+            <Articulation>
+              <subtype>trill</subtype>
+              <lid>1018</lid>
+              </Articulation>
             <Note>
               <lid>888</lid>
               <pitch>73</pitch>
