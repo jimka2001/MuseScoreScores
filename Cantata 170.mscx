@@ -298,10 +298,10 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Tempo>
-          <tempo>1</tempo>
+          <tempo>0.975</tempo>
           <followText>1</followText>
           <lid>8</lid>
-          <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 40</text>
+          <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 39</text>
           </Tempo>
         <Rest>
           <lid>9</lid>
@@ -3375,6 +3375,10 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>564</lid>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
@@ -26689,7 +26693,7 @@
             <tempo>1.05</tempo>
             <followText>1</followText>
             <lid>8</lid>
-            <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 40</text>
+            <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 39</text>
             </Tempo>
           <Rest>
             <lid>9</lid>
@@ -26708,10 +26712,10 @@
             <showCourtesySig>1</showCourtesySig>
             </TimeSig>
           <Tempo>
-            <tempo>1.05</tempo>
+            <tempo>1</tempo>
             <followText>1</followText>
             <lid>8</lid>
-            <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 40</text>
+            <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 39</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -29798,6 +29802,10 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>564</lid>
+              <Accidental>
+                <role>1</role>
+                <subtype>natural</subtype>
+                </Accidental>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
