@@ -52,20 +52,8 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -76,20 +64,8 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -100,20 +76,8 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -124,20 +88,8 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -148,20 +100,8 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -172,6 +112,10 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -180,10 +124,82 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
       <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -286,7 +302,6 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Violoncello</trackName>
       <Instrument>
         <longName>Violoncello</longName>
@@ -376,6 +391,7 @@
         <Channel>
           <program value="6"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -24556,6 +24572,10 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="4">
