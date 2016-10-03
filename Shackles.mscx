@@ -76,16 +76,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -94,6 +84,16 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         <System>
@@ -17500,10 +17500,10 @@
             </Note>
           <Note>
             <Accidental>
-              <subtype>accidentalFlat</subtype>
+              <subtype>accidentalSharp</subtype>
               </Accidental>
             <pitch>75</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -17525,7 +17525,7 @@
             </Note>
           <Note>
             <pitch>75</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -17543,7 +17543,7 @@
             </Note>
           <Note>
             <pitch>75</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -17558,7 +17558,7 @@
             </Note>
           <Note>
             <pitch>75</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -17580,7 +17580,7 @@
             </Note>
           <Note>
             <pitch>75</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -17600,10 +17600,10 @@
             </Note>
           <Note>
             <Accidental>
-              <subtype>accidentalFlat</subtype>
+              <subtype>accidentalSharp</subtype>
               </Accidental>
             <pitch>75</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -17617,9 +17617,6 @@
             <veloType>user</veloType>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             <velocity>88</velocity>
@@ -25111,10 +25108,10 @@
             </Note>
           <Note>
             <Accidental>
-              <subtype>accidentalFlat</subtype>
+              <subtype>accidentalSharp</subtype>
               </Accidental>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25138,7 +25135,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25162,7 +25159,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25186,7 +25183,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25210,7 +25207,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25227,9 +25224,6 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             <velocity>88</velocity>
@@ -25748,10 +25742,10 @@
             </Note>
           <Note>
             <Accidental>
-              <subtype>accidentalFlat</subtype>
+              <subtype>accidentalSharp</subtype>
               </Accidental>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25775,7 +25769,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25799,7 +25793,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25823,7 +25817,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25847,7 +25841,7 @@
             </Note>
           <Note>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25864,9 +25858,6 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             <velocity>88</velocity>
@@ -25888,10 +25879,10 @@
             </Note>
           <Note>
             <Accidental>
-              <subtype>accidentalFlat</subtype>
+              <subtype>accidentalSharp</subtype>
               </Accidental>
             <pitch>51</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -25914,9 +25905,6 @@
             <veloType>user</veloType>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             <velocity>88</velocity>
@@ -30246,10 +30234,10 @@
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>accidentalFlat</subtype>
+              <subtype>accidentalSharp</subtype>
               </Accidental>
             <pitch>39</pitch>
-            <tpc>11</tpc>
+            <tpc>23</tpc>
             <velocity>94</velocity>
             <veloType>user</veloType>
             </Note>
