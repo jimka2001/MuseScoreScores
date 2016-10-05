@@ -52,22 +52,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -84,6 +68,18 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -94,6 +90,10 @@
           </System>
         </Page>
       <Page>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -358,20 +358,20 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <trackName>Electric Guitar, EDIT BY TOOTS</trackName>
+      <trackName>Electric Guitar</trackName>
       <Instrument>
-        <longName>Piano</longName>
-        <shortName>Pno.</shortName>
-        <trackName>Piano</trackName>
+        <longName>Electric Piano</longName>
+        <shortName>El. Pno.</shortName>
+        <trackName>Electric Piano</trackName>
         <minPitchP>21</minPitchP>
         <maxPitchP>108</maxPitchP>
         <minPitchA>21</minPitchA>
         <maxPitchA>108</maxPitchA>
-        <instrumentId>keyboard.piano</instrumentId>
+        <instrumentId>keyboard.piano.electric</instrumentId>
         <clef staff="2">F</clef>
         <Articulation>
           <velocity>100</velocity>
-          <gateTime>95</gateTime>
+          <gateTime>100</gateTime>
           </Articulation>
         <Articulation name="staccatissimo">
           <velocity>100</velocity>
@@ -398,7 +398,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="0"/>
+          <program value="4"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>0</midiChannel>
@@ -5728,6 +5728,99 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Rest>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="2">
         <Chord>
@@ -5804,6 +5897,123 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="3">
         <Chord>
@@ -5845,6 +6055,9 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -5888,8 +6101,138 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -5993,6 +6336,146 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="5">
         <Rest>
@@ -6055,6 +6538,99 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Rest>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6135,6 +6711,116 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="7">
         <Chord>
@@ -6176,6 +6862,9 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -6219,8 +6908,138 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6320,6 +7139,146 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6466,6 +7425,116 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="11">
         <Chord>
@@ -6507,6 +7576,9 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -6550,8 +7622,138 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -6769,6 +7971,99 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Rest>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="22">
         <Chord>
@@ -6845,6 +8140,116 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="23">
         <Chord>
@@ -6886,6 +8291,9 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -6929,8 +8337,138 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -7034,6 +8572,146 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="25">
         <Rest>
@@ -7096,6 +8774,99 @@
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Rest>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -7176,6 +8947,116 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="27">
         <Chord>
@@ -7217,6 +9098,9 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -7260,8 +9144,138 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -7361,6 +9375,146 @@
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalFlat</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <Accidental>
+              <subtype>accidentalNatural</subtype>
+              <track>5</track>
+              </Accidental>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Rest>
+          <track>5</track>
+          <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <dots>1</dots>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>5</track>
+          <durationType>eighth</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>5</track>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -7467,23 +9621,18 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Chord>
+        <Rest>
           <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
@@ -7536,13 +9685,9 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Chord>
+        <Rest>
           <durationType>16th</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         </Measure>
       <Measure number="38">
         <Rest>
@@ -7817,6 +9962,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            </Note>
+          <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
             <velocity>88</velocity>
@@ -7953,7 +10106,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>16th</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
@@ -7982,24 +10135,23 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>55</pitch>
+            <pitch>79</pitch>
             <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>16th</durationType>
+          </Rest>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -8067,6 +10219,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
             <velocity>88</velocity>
@@ -8074,22 +10234,18 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -8099,44 +10255,11 @@
           <track>5</track>
           <durationType>half</durationType>
           </Rest>
-        <Rest>
-          <track>5</track>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <track>5</track>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <track>5</track>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>5</track>
-            </Articulation>
-          <Note>
-            <track>5</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="41">
-        <Chord>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -8162,8 +10285,7 @@
             </Note>
           </Chord>
         <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
@@ -8187,22 +10309,14 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
@@ -8255,82 +10369,29 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Chord>
+        <Rest>
           <durationType>16th</durationType>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         </Measure>
       <Measure number="42">
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <Chord>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <move>13/16</move>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
-        <move>0/1</move>
-        <Rest>
-          <track>5</track>
-          <durationType>half</durationType>
-          </Rest>
-        <Chord>
-          <track>5</track>
-          <durationType>half</durationType>
-          <Note>
-            <track>5</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <move>0/1</move>
-        <Chord>
-          <track>6</track>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
-            <track>6</track>
             </Articulation>
           <Note>
-            <track>6</track>
             <pitch>64</pitch>
             <tpc>18</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
           <Note>
-            <track>6</track>
             <pitch>67</pitch>
             <tpc>15</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
           <Note>
-            <track>6</track>
             <pitch>71</pitch>
             <tpc>19</tpc>
             <velocity>88</velocity>
@@ -8338,28 +10399,23 @@
             </Note>
           </Chord>
         <Chord>
-          <track>6</track>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
-            <track>6</track>
             </Articulation>
           <Note>
-            <track>6</track>
             <pitch>64</pitch>
             <tpc>18</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
           <Note>
-            <track>6</track>
             <pitch>69</pitch>
             <tpc>17</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
           <Note>
-            <track>6</track>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <velocity>88</velocity>
@@ -8367,33 +10423,34 @@
             </Note>
           </Chord>
         <Chord>
-          <track>6</track>
           <durationType>16th</durationType>
           <Note>
-            <track>6</track>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <track>6</track>
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
           <Note>
-            <track>6</track>
             <pitch>72</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
-          <track>6</track>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
-            <track>6</track>
             </Articulation>
           <Note>
-            <track>6</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <velocity>88</velocity>
@@ -8401,14 +10458,19 @@
             </Note>
           </Chord>
         <Chord>
-          <track>6</track>
           <durationType>16th</durationType>
           <Articulation>
             <subtype>staccato</subtype>
-            <track>6</track>
             </Articulation>
           <Note>
-            <track>6</track>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <velocity>88</velocity>
@@ -8416,50 +10478,44 @@
             </Note>
           </Chord>
         <Chord>
-          <track>6</track>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
-            <track>6</track>
             </Articulation>
           <Note>
-            <track>6</track>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
           <Note>
-            <track>6</track>
             <pitch>79</pitch>
             <tpc>15</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Rest>
-          <track>6</track>
-          <durationType>16th</durationType>
-          </Rest>
         <Chord>
-          <track>6</track>
           <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>6</track>
-            </Articulation>
+          <durationType>quarter</durationType>
           <Note>
-            <track>6</track>
-            <pitch>48</pitch>
+            <pitch>72</pitch>
             <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
             </Note>
           <Note>
-            <track>6</track>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <move>1/2</move>
+        <Chord>
+          <track>5</track>
+          <durationType>half</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -8518,23 +10574,22 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Chord>
+        <Rest>
           <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            </Note>
           <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
@@ -8672,7 +10727,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>16th</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
@@ -8701,24 +10756,23 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>55</pitch>
+            <pitch>79</pitch>
             <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>16th</durationType>
+          </Rest>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -8786,6 +10840,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
             <pitch>81</pitch>
             <tpc>17</tpc>
             <velocity>88</velocity>
@@ -8795,53 +10857,23 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <move>0/1</move>
         <Rest>
-          <track>5</track>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <track>5</track>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <track>5</track>
           <durationType>16th</durationType>
           </Rest>
-        <Chord>
-          <track>5</track>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>5</track>
-            </Articulation>
-          <Note>
-            <track>5</track>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="45">
         <Chord>
@@ -8891,6 +10923,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
             <velocity>88</velocity>
@@ -8903,6 +10943,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
             <velocity>88</velocity>
@@ -8915,6 +10963,10 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
             <pitch>78</pitch>
             <tpc>20</tpc>
             <velocity>88</velocity>
@@ -8923,6 +10975,14 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -8940,6 +11000,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
             <velocity>88</velocity>
@@ -8954,6 +11022,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
+            </Note>
+          <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
             <velocity>88</velocity>
@@ -8966,6 +11042,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <velocity>88</velocity>
@@ -8974,6 +11058,14 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -8985,6 +11077,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <velocity>88</velocity>
@@ -8997,6 +11097,14 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <velocity>88</velocity>
@@ -9005,6 +11113,10 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
@@ -9016,8 +11128,28 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
+            <velocity>88</velocity>
+            <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <move>0/1</move>
+        <Rest>
+          <track>5</track>
+          <durationType>half</durationType>
+          </Rest>
+        <Chord>
+          <track>5</track>
+          <durationType>half</durationType>
+          <Note>
+            <track>5</track>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
@@ -10816,93 +12948,9 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="2">
         <Rest>
@@ -10917,862 +12965,42 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <move>0/1</move>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="3">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="4">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="5">
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="6">
         <Rest>
-          <durationType>half</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <move>0/1</move>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="7">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="8">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="9">
         <Rest>
@@ -11877,382 +13105,18 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <move>0/1</move>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="11">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="12">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="13">
         <Rest>
@@ -12304,93 +13168,9 @@
         </Measure>
       <Measure number="21">
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="22">
         <Rest>
@@ -12405,472 +13185,24 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <move>0/1</move>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="23">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="24">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="25">
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="26">
         <Rest>
@@ -12885,382 +13217,18 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <move>0/1</move>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="27">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="28">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalNatural</subtype>
-              </Accidental>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>16th</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="29">
         <Rest>
@@ -13309,15 +13277,15 @@
           <durationType>measure</durationType>
           <duration>4/4</duration>
           </Rest>
+        <Clef>
+          <concertClefType>F</concertClefType>
+          <transposingClefType>F</transposingClefType>
+          </Clef>
         </Measure>
       <Measure number="37">
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -13384,27 +13352,14 @@
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -13430,7 +13385,6 @@
           <durationType>16th</durationType>
           </Rest>
         <Chord>
-          <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
@@ -13452,6 +13406,13 @@
             <tpc>15</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -13705,36 +13666,10 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
+        <Rest>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -13875,22 +13810,9 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
+        <Rest>
           <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -13899,24 +13821,19 @@
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
           </Chord>
-        <Chord>
+        <Rest>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -13965,46 +13882,12 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
+          </Rest>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <move>0/1</move>
         <Rest>
           <track>9</track>
@@ -14020,7 +13903,6 @@
           </Rest>
         <Chord>
           <track>9</track>
-          <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
@@ -14039,6 +13921,20 @@
             <tpc>18</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>9</track>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>9</track>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -14064,6 +13960,10 @@
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
@@ -14131,27 +14031,14 @@
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -14177,7 +14064,6 @@
           <durationType>16th</durationType>
           </Rest>
         <Chord>
-          <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
@@ -14199,6 +14085,13 @@
             <tpc>15</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -14252,7 +14145,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>16th</durationType>
+          <durationType>quarter</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
@@ -14275,43 +14168,6 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>16th</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -14368,11 +14224,20 @@
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
+          <Note>
+            <pitch>48</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Articulation>
             <subtype>staccato</subtype>
+            <anchor>3</anchor>
             </Articulation>
           <Note>
             <pitch>50</pitch>
@@ -14435,7 +14300,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>16th</durationType>
+          <durationType>quarter</durationType>
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
@@ -14451,37 +14316,11 @@
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>accidentalFlat</subtype>
-              </Accidental>
-            <pitch>75</pitch>
-            <tpc>11</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -14622,22 +14461,9 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
+        <Rest>
           <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>79</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -14646,24 +14472,19 @@
             <velocity>88</velocity>
             <veloType>user</veloType>
             </Note>
+          <Note>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            </Note>
           </Chord>
-        <Chord>
+        <Rest>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Clef>
-          <concertClefType>F</concertClefType>
-          <transposingClefType>F</transposingClefType>
-          </Clef>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -14712,62 +14533,16 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
+          </Rest>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <move>0/1</move>
-        <Rest>
-          <track>9</track>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <track>9</track>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <track>9</track>
-          <durationType>16th</durationType>
-          </Rest>
+        <move>13/16</move>
         <Chord>
           <track>9</track>
-          <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
             <subtype>staccato</subtype>
@@ -14786,6 +14561,20 @@
             <tpc>18</tpc>
             <velocity>88</velocity>
             <veloType>user</veloType>
+            </Note>
+          <Note>
+            <track>9</track>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <track>9</track>
+          <durationType>16th</durationType>
+          <Note>
+            <track>9</track>
+            <pitch>54</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -14841,235 +14630,31 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
-        <Chord>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
+          </Rest>
+        <Rest>
           <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
+          </Rest>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
+          </Rest>
+        <Rest>
           <durationType>eighth</durationType>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         <Rest>
           <durationType>16th</durationType>
           </Rest>
-        <Chord>
+        <Rest>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
+          </Rest>
         </Measure>
       <Measure number="50">
         <Rest>
-          <durationType>half</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
-        <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <move>0/1</move>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            <track>9</track>
-            </Articulation>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>16th</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <track>9</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <durationType>eighth</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>9</track>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
-          <Note>
-            <track>9</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
-            <velocity>88</velocity>
-            <veloType>user</veloType>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="51">
         <Chord>
