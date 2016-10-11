@@ -16738,12 +16738,8 @@
             </Note>
           </Chord>
         <Rest>
-          <lid>3796</lid>
-          <durationType>16th</durationType>
-          </Rest>
-        <Rest>
-          <lid>3797</lid>
-          <durationType>16th</durationType>
+          <lid>6265</lid>
+          <durationType>eighth</durationType>
           </Rest>
         <Chord>
           <lid>3799</lid>
@@ -24895,13 +24891,6 @@
             <veloType>user</veloType>
             </Note>
           </Chord>
-        <move>0/1</move>
-        <Rest>
-          <lid>5990</lid>
-          <track>13</track>
-          <durationType>measure</durationType>
-          <duration>4/4</duration>
-          </Rest>
         </Measure>
       <Measure number="22">
         <Chord>
@@ -26350,12 +26339,12 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             <lid>6002</lid>
             </Articulation>
           <Note>
             <lid>6004</lid>
-            <pitch>40</pitch>
+            <pitch>28</pitch>
             <tpc>18</tpc>
             <velocity>94</velocity>
             <veloType>user</veloType>
@@ -26365,12 +26354,12 @@
           <lid>6006</lid>
           <durationType>16th</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             <lid>6005</lid>
             </Articulation>
           <Note>
             <lid>6007</lid>
-            <pitch>40</pitch>
+            <pitch>28</pitch>
             <tpc>18</tpc>
             <velocity>94</velocity>
             <veloType>user</veloType>
@@ -26385,12 +26374,12 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             <lid>6009</lid>
             </Articulation>
           <Note>
             <lid>6011</lid>
-            <pitch>40</pitch>
+            <pitch>28</pitch>
             <tpc>18</tpc>
             <velocity>94</velocity>
             <veloType>user</veloType>
@@ -26403,7 +26392,7 @@
             <lid>6013</lid>
             <Tie id="140">
               </Tie>
-            <pitch>40</pitch>
+            <pitch>28</pitch>
             <tpc>18</tpc>
             <velocity>94</velocity>
             <veloType>user</veloType>
@@ -26415,7 +26404,7 @@
           <Note>
             <lid>6015</lid>
             <endSpanner id="140"/>
-            <pitch>40</pitch>
+            <pitch>28</pitch>
             <tpc>18</tpc>
             <velocity>94</velocity>
             <veloType>user</veloType>
@@ -26426,7 +26415,7 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>6017</lid>
-            <pitch>43</pitch>
+            <pitch>31</pitch>
             <tpc>15</tpc>
             <velocity>94</velocity>
             <veloType>user</veloType>
@@ -77837,12 +77826,8 @@
               </Note>
             </Chord>
           <Rest>
-            <lid>3796</lid>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
-            <lid>3797</lid>
-            <durationType>16th</durationType>
+            <lid>6265</lid>
+            <durationType>eighth</durationType>
             </Rest>
           <Chord>
             <lid>3799</lid>
@@ -85992,13 +85977,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <move>0/1</move>
-          <Rest>
-            <lid>5990</lid>
-            <track>5</track>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
           </Measure>
         <Measure number="22">
           <Chord>
@@ -87447,12 +87425,12 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               <lid>6002</lid>
               </Articulation>
             <Note>
               <lid>6004</lid>
-              <pitch>40</pitch>
+              <pitch>28</pitch>
               <tpc>18</tpc>
               <velocity>94</velocity>
               <veloType>user</veloType>
@@ -87462,12 +87440,12 @@
             <lid>6006</lid>
             <durationType>16th</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               <lid>6005</lid>
               </Articulation>
             <Note>
               <lid>6007</lid>
-              <pitch>40</pitch>
+              <pitch>28</pitch>
               <tpc>18</tpc>
               <velocity>94</velocity>
               <veloType>user</veloType>
@@ -87482,12 +87460,12 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Articulation>
-              <subtype>articStaccatoAbove</subtype>
+              <subtype>articStaccatoBelow</subtype>
               <lid>6009</lid>
               </Articulation>
             <Note>
               <lid>6011</lid>
-              <pitch>40</pitch>
+              <pitch>28</pitch>
               <tpc>18</tpc>
               <velocity>94</velocity>
               <veloType>user</veloType>
@@ -87500,7 +87478,7 @@
               <lid>6013</lid>
               <Tie id="343">
                 </Tie>
-              <pitch>40</pitch>
+              <pitch>28</pitch>
               <tpc>18</tpc>
               <velocity>94</velocity>
               <veloType>user</veloType>
@@ -87512,7 +87490,7 @@
             <Note>
               <lid>6015</lid>
               <endSpanner id="343"/>
-              <pitch>40</pitch>
+              <pitch>28</pitch>
               <tpc>18</tpc>
               <velocity>94</velocity>
               <veloType>user</veloType>
@@ -87523,7 +87501,7 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>6017</lid>
-              <pitch>43</pitch>
+              <pitch>31</pitch>
               <tpc>15</tpc>
               <velocity>94</velocity>
               <veloType>user</veloType>
