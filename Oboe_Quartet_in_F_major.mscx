@@ -156,6 +156,28 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         </Page>
       <Page>
         <System>
@@ -190,28 +212,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         </Page>
@@ -262,7 +262,9 @@
           </Articulation>
         <Channel>
           <program value="68"/>
+          <controller ctrl="7" value="1"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -433,11 +435,7 @@
 </text>
           </Text>
         </VBox>
-      <Measure number="1" len="1/8">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1">
         <KeySig>
           <accidental>-1</accidental>
           <mode>major</mode>
@@ -448,12 +446,16 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <StaffText>
-          <placement>below</placement>
-          <text><font size="8.185"></font><font face="Plantin MT Std"></font>Allegro</text>
-          </StaffText>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
-          <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Note>
             <pitch>72</pitch>
@@ -462,6 +464,7 @@
           </Chord>
         </Measure>
       <Measure number="2">
+        <startRepeat/>
         <Slur id="2">
           <track>0</track>
           </Slur>
@@ -23201,11 +23204,7 @@ Allegro</text>
         </Measure>
       </Staff>
     <Staff id="2">
-      <Measure number="1" len="1/8">
-        <Clef>
-          <concertClefType>G</concertClefType>
-          <transposingClefType>G</transposingClefType>
-          </Clef>
+      <Measure number="1">
         <KeySig>
           <accidental>-1</accidental>
           <mode>major</mode>
@@ -23217,7 +23216,8 @@ Allegro</text>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -45296,11 +45296,7 @@ Allegro</text>
         </Measure>
       </Staff>
     <Staff id="3">
-      <Measure number="1" len="1/8">
-        <Clef>
-          <concertClefType>C3</concertClefType>
-          <transposingClefType>C3</transposingClefType>
-          </Clef>
+      <Measure number="1">
         <KeySig>
           <accidental>-1</accidental>
           <mode>major</mode>
@@ -45312,7 +45308,8 @@ Allegro</text>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
         </Measure>
       <Measure number="2">
@@ -45359,7 +45356,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>65</pitch>
@@ -45623,7 +45620,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>64</pitch>
@@ -49458,7 +49455,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>69</pitch>
@@ -49516,7 +49513,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>67</pitch>
@@ -49565,7 +49562,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>60</pitch>
@@ -49878,7 +49875,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>65</pitch>
@@ -49892,7 +49889,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>60</pitch>
@@ -49946,7 +49943,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>62</pitch>
@@ -52679,7 +52676,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>67</pitch>
@@ -53444,7 +53441,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>60</pitch>
@@ -54043,7 +54040,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>60</pitch>
@@ -58634,7 +58631,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>62</pitch>
@@ -58645,7 +58642,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>62</pitch>
@@ -58707,7 +58704,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <Accidental>
@@ -58722,7 +58719,7 @@ Allegro</text>
           <BeamMode>no</BeamMode>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>articStaccatoBelow</subtype>
             </Articulation>
           <Note>
             <pitch>60</pitch>
@@ -66246,7 +66243,7 @@ Allegro</text>
         </Measure>
       </Staff>
     <Staff id="4">
-      <Measure number="1" len="1/8">
+      <Measure number="1">
         <Clef>
           <concertClefType>F</concertClefType>
           <transposingClefType>F</transposingClefType>
@@ -66262,7 +66259,8 @@ Allegro</text>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Rest>
-          <durationType>eighth</durationType>
+          <durationType>measure</durationType>
+          <duration>4/4</duration>
           </Rest>
         </Measure>
       <Measure number="2">
