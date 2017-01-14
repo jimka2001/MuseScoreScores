@@ -1102,6 +1102,10 @@
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>ornamentTrill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Note>
             <pitch>73</pitch>
             <tpc>21</tpc>
