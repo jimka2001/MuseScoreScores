@@ -5267,6 +5267,10 @@
       <Measure number="83">
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>ornamentTrill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
@@ -5331,6 +5335,10 @@
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>ornamentTrill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Slur type="start" id="47"/>
           <Note>
             <pitch>79</pitch>
@@ -7117,6 +7125,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>articStaccatoBelow</subtype>
+            </Articulation>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -8055,6 +8066,10 @@
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>ornamentTrill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Slur type="start" id="80"/>
           <Note>
             <pitch>71</pitch>
@@ -8118,6 +8133,10 @@
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>ornamentTrill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Slur type="start" id="81"/>
           <Note>
             <pitch>72</pitch>
@@ -13449,6 +13468,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>articStaccatoBelow</subtype>
+            </Articulation>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>

@@ -3774,6 +3774,10 @@
       <Measure number="83">
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>ornamentTrill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
@@ -9806,6 +9810,10 @@
       <Measure number="91">
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>ornamentTrill</subtype>
+            <ornamentStyle>baroque</ornamentStyle>
+            </Articulation>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
