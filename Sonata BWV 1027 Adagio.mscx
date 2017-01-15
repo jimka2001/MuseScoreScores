@@ -242,9 +242,9 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Tempo>
-          <tempo>1</tempo>
+          <tempo>0.916667</tempo>
           <followText>1</followText>
-          <text><sym>metNoteQuarterUp</sym> = 60</text>
+          <text><sym>metNoteQuarterUp</sym> = 55</text>
           </Tempo>
         <Chord>
           <dots>1</dots>
@@ -1291,6 +1291,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>articStaccatoAbove</subtype>
+            </Articulation>
           <Note>
             <pitch>71</pitch>
             <tpc>19</tpc>
