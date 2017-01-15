@@ -756,7 +756,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoBelow</subtype>
+            <subtype>staccato</subtype>
             </Articulation>
           <Note>
             <pitch>67</pitch>
@@ -1194,7 +1194,7 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
             </Articulation>
           <Note>
@@ -1292,7 +1292,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>staccato</subtype>
             </Articulation>
           <Note>
             <pitch>71</pitch>
@@ -1744,7 +1744,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
             </Articulation>
           <Note>
@@ -2826,7 +2826,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             </Articulation>
           <Slur type="start" id="82"/>
           <Note>
@@ -3580,7 +3580,7 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
             </Articulation>
           <Note>
@@ -5616,7 +5616,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>articStaccatoAbove</subtype>
+            <subtype>staccato</subtype>
             </Articulation>
           <Note>
             <pitch>78</pitch>
@@ -6234,7 +6234,7 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
             </Articulation>
           <Note>
@@ -6322,7 +6322,7 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             </Articulation>
           <Note>
             <pitch>75</pitch>
@@ -6748,7 +6748,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
             </Articulation>
           <Note>
@@ -6994,7 +6994,7 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Articulation>
-            <subtype>ornamentTrill</subtype>
+            <subtype>trill</subtype>
             <ornamentStyle>baroque</ornamentStyle>
             </Articulation>
           <Note>
