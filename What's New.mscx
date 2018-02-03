@@ -1642,12 +1642,9 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
             <pitch>70</pitch>
-            <tpc>24</tpc>
-            <tpc2>26</tpc2>
+            <tpc>12</tpc>
+            <tpc2>14</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -3418,62 +3415,36 @@
         </Measure>
       <Measure number="27">
         <Harmony>
-          <root>15</root>
-          <name>m7(b5)</name>
+          <root>10</root>
+          <name>t7</name>
           </Harmony>
         <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
-            </Note>
-          <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
-            <pitch>73</pitch>
-            <tpc>9</tpc>
-            </Note>
-          <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Arpeggio>
-            <subtype>0</subtype>
-            </Arpeggio>
-          </Chord>
-        <Harmony>
-          <root>14</root>
-          <name>7(b9)</name>
-          </Harmony>
-        <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
+          <durationType>whole</durationType>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <pitch>67</pitch>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>68</pitch>
+            <tpc>10</tpc>
+            </Note>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>75</pitch>
+            <tpc>11</tpc>
+            </Note>
+          <Note>
+            <pitch>79</pitch>
             <tpc>15</tpc>
-            </Note>
-          <Note>
-            <pitch>70</pitch>
-            <tpc>12</tpc>
-            </Note>
-          <Note>
-            <pitch>73</pitch>
-            <tpc>9</tpc>
             </Note>
           <Arpeggio>
             <subtype>0</subtype>
@@ -3505,6 +3476,14 @@
           <Note>
             <pitch>72</pitch>
             <tpc>14</tpc>
+            </Note>
+          <Note>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
+            </Note>
+          <Note>
+            <pitch>77</pitch>
+            <tpc>13</tpc>
             </Note>
           <Arpeggio>
             <subtype>0</subtype>
@@ -5074,58 +5053,31 @@
         </Measure>
       <Measure number="27">
         <Chord>
-          <durationType>half</durationType>
+          <durationType>whole</durationType>
           <Note>
-            <pitch>43</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>44</pitch>
+            <tpc>10</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           <Note>
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>61</pitch>
-            <tpc>9</tpc>
+            <pitch>56</pitch>
+            <tpc>10</tpc>
             </Note>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
-            </Note>
-          <Arpeggio>
-            <subtype>0</subtype>
-            </Arpeggio>
-          </Chord>
-        <Chord>
-          <durationType>half</durationType>
-          <Note>
-            <pitch>48</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
-            </Note>
-          <Note>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
-            </Note>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
-            </Note>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>9</tpc>
             </Note>
           <Arpeggio>
             <subtype>0</subtype>
@@ -5138,10 +5090,6 @@
           <Note>
             <pitch>50</pitch>
             <tpc>16</tpc>
-            </Note>
-          <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
             </Note>
           <Note>
             <Accidental>
