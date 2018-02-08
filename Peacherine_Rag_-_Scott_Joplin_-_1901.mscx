@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<museScore version="3.00">
-  <programVersion>3.0.0</programVersion>
-  <programRevision>53d4ad2</programRevision>
+<museScore version="2.06">
+  <programVersion>2.1.0</programVersion>
+  <programRevision>871c8ce</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -11,17 +11,12 @@
     <Style>
       <akkoladeDistance>7.5</akkoladeDistance>
       <maxSystemDistance>30</maxSystemDistance>
-      <lyricsMinBottomDistance>4</lyricsMinBottomDistance>
-      <clefLeftMargin>0.64</clefLeftMargin>
-      <clefKeyRightMargin>1.75</clefKeyRightMargin>
       <shortenStem>0</shortenStem>
       <measureSpacing>1.1</measureSpacing>
       <beamWidth>0.7</beamWidth>
       <beamDistance>0.3</beamDistance>
       <beamMinLen>1.15</beamMinLen>
       <lastSystemFillLimit>0</lastSystemFillLimit>
-      <pedalPosBelow>0</pedalPosBelow>
-      <trillPosAbove>0</trillPosAbove>
       <showMeasureNumber>0</showMeasureNumber>
       <minMMRestWidth>0</minMMRestWidth>
       <slurMidWidth>0.17</slurMidWidth>
@@ -165,6 +160,18 @@
         <halign>left</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
+        <yoffset>-2</yoffset>
+        <offsetType>spatium</offsetType>
+        <name>Technique</name>
+        <family>FreeSerif</family>
+        <size>12</size>
+        <italic>1</italic>
+        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
+        </TextStyle>
+      <TextStyle>
+        <halign>left</halign>
+        <valign>baseline</valign>
+        <xoffset>0</xoffset>
         <yoffset>-4</yoffset>
         <offsetType>spatium</offsetType>
         <name>Tempo</name>
@@ -245,23 +252,6 @@
         <family>FreeSerif</family>
         <size>12</size>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
-        </TextStyle>
-      <TextStyle>
-        <halign>center</halign>
-        <valign>baseline</valign>
-        <xoffset>0</xoffset>
-        <yoffset>-3</yoffset>
-        <offsetType>spatium</offsetType>
-        <name>Rehearsal Mark</name>
-        <family>FreeSerif</family>
-        <size>14</size>
-        <bold>1</bold>
-        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
-        <frameWidthS>0.2</frameWidthS>
-        <paddingWidthS>0.5</paddingWidthS>
-        <frameRound>20</frameRound>
-        <frameColor r="0" g="0" b="0" a="255"/>
-        <systemFlag>1</systemFlag>
         </TextStyle>
       <TextStyle>
         <halign>left</halign>
@@ -387,18 +377,6 @@
         <bold>1</bold>
         <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
         </TextStyle>
-      <TextStyle>
-        <halign>left</halign>
-        <valign>baseline</valign>
-        <xoffset>0</xoffset>
-        <yoffset>-2</yoffset>
-        <offsetType>spatium</offsetType>
-        <name>Technique</name>
-        <family>FreeSerif</family>
-        <size>12</size>
-        <italic>1</italic>
-        <sizeIsSpatiumDependent>1</sizeIsSpatiumDependent>
-        </TextStyle>
       <page-layout>
         <page-height>1683.38</page-height>
         <page-width>1190.89</page-width>
@@ -415,7 +393,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="arranger"></metaTag>
+    <metaTag name="arranger">Jim Newton</metaTag>
     <metaTag name="composer">Scott Joplin</metaTag>
     <metaTag name="copyright">Public Domain</metaTag>
     <metaTag name="creationDate">2016-04-12</metaTag>
@@ -527,8 +505,6 @@
         <Channel>
           <program value="73"/>
           <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>1</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -580,8 +556,6 @@
         <Channel>
           <program value="68"/>
           <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>2</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -635,20 +609,14 @@
         <Channel>
           <program value="42"/>
           <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>3</midiChannel>
           </Channel>
         <Channel name="pizzicato">
           <program value="45"/>
           <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>4</midiChannel>
           </Channel>
         <Channel name="tremolo">
           <program value="44"/>
           <synti>Fluid</synti>
-          <midiPort>0</midiPort>
-          <midiChannel>5</midiChannel>
           </Channel>
         </Instrument>
       </Part>
@@ -664,7 +632,7 @@
         <Text>
           <pos x="-3" y="-3"/>
           <style>Composer</style>
-          <text>by  SCOTT  JOPLIN.</text>
+          <text>by  SCOTT  JOPLIN. arr. Jim Newton jimka.issy@gmail.com</text>
           </Text>
         </VBox>
       <HBox>
@@ -872,7 +840,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>24</tpc>
@@ -927,7 +895,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -1369,7 +1337,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -1423,7 +1391,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -1632,7 +1600,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>77</pitch>
             <tpc>25</tpc>
@@ -2226,7 +2194,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>23</tpc>
@@ -2359,7 +2327,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>82</pitch>
             <tpc>24</tpc>
@@ -2705,7 +2673,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>23</tpc>
@@ -2758,7 +2726,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>74</pitch>
             <tpc>16</tpc>
@@ -3157,10 +3125,6 @@
             <off2 x="0" y="0"/>
             <offset x="0" y="-1.335"/>
             </Segment>
-          <Segment>
-            <subtype>0</subtype>
-            <off2 x="0" y="0"/>
-            </Segment>
           <beginText>
             <style>Volta</style>
             <xoffset>11</xoffset>
@@ -3178,10 +3142,6 @@
             <subtype>0</subtype>
             <off2 x="0" y="0"/>
             <offset x="0" y="-1.335"/>
-            </Segment>
-          <Segment>
-            <subtype>0</subtype>
-            <off2 x="0" y="0"/>
             </Segment>
           <beginText>
             <style>Volta</style>
@@ -3294,10 +3254,6 @@
             <subtype>0</subtype>
             <off2 x="0" y="0"/>
             <offset x="0" y="-1.335"/>
-            </Segment>
-          <Segment>
-            <subtype>3</subtype>
-            <off2 x="0" y="0"/>
             </Segment>
           <beginText>
             <style>Volta</style>
@@ -3739,7 +3695,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>80</pitch>
             <tpc>22</tpc>
@@ -3996,7 +3952,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>77</pitch>
             <tpc>25</tpc>
@@ -4301,7 +4257,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -4792,7 +4748,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -5171,15 +5127,6 @@
         <Volta id="67">
           <endHook>1</endHook>
           <lineWidth>0.2</lineWidth>
-          <Segment>
-            <subtype>0</subtype>
-            <off2 x="0" y="0"/>
-            </Segment>
-          <Segment>
-            <subtype>3</subtype>
-            <off2 x="0.573714" y="0"/>
-            <offset x="0" y="-3.49238"/>
-            </Segment>
           <beginText>
             <style>Volta</style>
             <xoffset>2</xoffset>
@@ -5252,6 +5199,10 @@
         </Measure>
       <Measure number="73">
         <startRepeat/>
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <RehearsalMark>
           <text>D</text>
           </RehearsalMark>
@@ -5618,7 +5569,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>85</pitch>
             <tpc>21</tpc>
@@ -5707,7 +5658,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -6230,6 +6181,7 @@
             </beginText>
           <endings>2</endings>
           </Volta>
+        <endSpanner id="75"/>
         <Chord>
           <BeamMode>no</BeamMode>
           <durationType>quarter</durationType>
@@ -6449,7 +6401,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>24</tpc>
@@ -6501,7 +6453,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -6563,7 +6515,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -7176,7 +7128,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>24</tpc>
@@ -7315,7 +7267,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               <pos x="-1.07157" y="0"/>
               </Accidental>
             <pitch>75</pitch>
@@ -7348,7 +7300,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -7378,7 +7330,7 @@
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -7446,7 +7398,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -7661,7 +7613,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>23</tpc>
@@ -7985,7 +7937,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>23</tpc>
@@ -8194,7 +8146,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -8224,7 +8176,7 @@
           <durationType>quarter</durationType>
           <Note>
             <Accidental>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -8274,7 +8226,7 @@
           <Note>
             <pos x="1.2" y="3"/>
             <Accidental>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -8679,7 +8631,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -8843,7 +8795,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>24</tpc>
@@ -8990,7 +8942,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>23</tpc>
@@ -9018,7 +8970,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>68</pitch>
             <tpc>22</tpc>
@@ -9048,7 +9000,7 @@
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -9080,7 +9032,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>72</pitch>
             <tpc>14</tpc>
@@ -9209,7 +9161,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <Tie id="90">
               </Tie>
@@ -9272,7 +9224,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -9374,7 +9326,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -9620,7 +9572,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -9693,7 +9645,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -9706,7 +9658,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>23</tpc>
@@ -9845,7 +9797,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <Tie id="97">
               </Tie>
@@ -9908,7 +9860,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -9962,7 +9914,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -10266,6 +10218,10 @@
           </Chord>
         </Measure>
       <Measure number="73">
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Beam id="196">
           <StemDirection>down</StemDirection>
           <Fragment>
@@ -10581,7 +10537,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -10670,7 +10626,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>73</pitch>
             <tpc>21</tpc>
@@ -10969,7 +10925,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>24</tpc>
@@ -11374,7 +11330,7 @@
           <Beam>219</Beam>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>46</pitch>
             <tpc>24</tpc>
@@ -11426,7 +11382,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>45</pitch>
             <tpc>17</tpc>
@@ -11827,7 +11783,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>53</pitch>
             <tpc>25</tpc>
@@ -12012,7 +11968,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>46</pitch>
             <tpc>24</tpc>
@@ -12113,7 +12069,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>44</pitch>
             <tpc>22</tpc>
@@ -13646,7 +13602,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>53</pitch>
             <tpc>25</tpc>
@@ -13831,7 +13787,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>46</pitch>
             <tpc>24</tpc>
@@ -13932,7 +13888,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>44</pitch>
             <tpc>22</tpc>
@@ -14129,7 +14085,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>56</pitch>
             <tpc>22</tpc>
@@ -14158,7 +14114,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -14433,7 +14389,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>56</pitch>
             <tpc>22</tpc>
@@ -14462,7 +14418,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -14794,6 +14750,10 @@
           </Rest>
         </Measure>
       <Measure number="73">
+        <BarLine>
+          <subtype>start-repeat</subtype>
+          <span>1</span>
+          </BarLine>
         <Beam id="322">
           <StemDirection>down</StemDirection>
           <Fragment>
@@ -15069,7 +15029,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalFlat</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
@@ -15118,7 +15078,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>44</pitch>
             <tpc>22</tpc>
@@ -15131,7 +15091,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>53</pitch>
             <tpc>25</tpc>
@@ -15519,7 +15479,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>49</pitch>
             <tpc>21</tpc>
@@ -15532,7 +15492,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>58</pitch>
             <tpc>24</tpc>
@@ -15591,7 +15551,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>accidentalSharp</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>51</pitch>
             <tpc>23</tpc>
@@ -15641,7 +15601,7 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>accidentalNatural</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>50</pitch>
             <tpc>16</tpc>
