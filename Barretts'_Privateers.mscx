@@ -2851,9 +2851,9 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            <tpc2>23</tpc2>
             </Note>
           </Chord>
         <Rest>
