@@ -2055,41 +2055,10 @@
         </Measure>
       <Measure number="68">
         <Rest>
-          <lid>5362</lid>
-          <durationType>quarter</durationType>
+          <lid>5553</lid>
+          <durationType>measure</durationType>
+          <duration z="3" n="4"/>
           </Rest>
-        <Rest>
-          <lid>5363</lid>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Chord>
-          <lid>499</lid>
-          <durationType>eighth</durationType>
-          <Note>
-            <lid>500</lid>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <lid>501</lid>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
-          <Note>
-            <lid>502</lid>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <lid>503</lid>
-          <durationType>16th</durationType>
-          <Note>
-            <lid>504</lid>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="69">
         <Chord>
@@ -2098,8 +2067,8 @@
           <durationType>quarter</durationType>
           <Note>
             <lid>507</lid>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -38689,8 +38658,8 @@
             <duration z="3" n="4"/>
             </Rest>
           </Measure>
-        <Measure number="65" len="9/4">
-          <multiMeasureRest>3</multiMeasureRest>
+        <Measure number="65" len="12/4">
+          <multiMeasureRest>4</multiMeasureRest>
           <RehearsalMark>
             <lid>495</lid>
             <text>B2</text>
@@ -38699,6 +38668,7 @@
             <durationType>measure</durationType>
             <duration z="9" n="4"/>
             </Rest>
+          <tick>97920</tick>
           <BarLine>
             <subtype>normal</subtype>
             <span>1</span>
@@ -38721,41 +38691,10 @@
           </Measure>
         <Measure number="68">
           <Rest>
-            <lid>5362</lid>
-            <durationType>quarter</durationType>
+            <lid>5553</lid>
+            <durationType>measure</durationType>
+            <duration z="3" n="4"/>
             </Rest>
-          <Rest>
-            <lid>5363</lid>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <lid>499</lid>
-            <durationType>eighth</durationType>
-            <Note>
-              <lid>500</lid>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <lid>501</lid>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <lid>502</lid>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <lid>503</lid>
-            <durationType>16th</durationType>
-            <Note>
-              <lid>504</lid>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
           </Measure>
         <Measure number="69">
           <Chord>
@@ -38764,8 +38703,8 @@
             <durationType>quarter</durationType>
             <Note>
               <lid>507</lid>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -42021,12 +41960,13 @@
             <duration z="3" n="4"/>
             </Rest>
           </Measure>
-        <Measure number="65" len="9/4">
-          <multiMeasureRest>3</multiMeasureRest>
+        <Measure number="65" len="12/4">
+          <multiMeasureRest>4</multiMeasureRest>
           <Rest>
             <durationType>measure</durationType>
             <duration z="9" n="4"/>
             </Rest>
+          <tick>97920</tick>
           <BarLine>
             <subtype>normal</subtype>
             <span>1</span>
@@ -71532,8 +71472,8 @@
             <duration z="3" n="4"/>
             </Rest>
           </Measure>
-        <Measure number="65" len="9/4">
-          <multiMeasureRest>3</multiMeasureRest>
+        <Measure number="65" len="12/4">
+          <multiMeasureRest>4</multiMeasureRest>
           <RehearsalMark>
             <lid>495</lid>
             <text>B2</text>
@@ -71542,6 +71482,7 @@
             <durationType>measure</durationType>
             <duration z="9" n="4"/>
             </Rest>
+          <tick>97920</tick>
           <BarLine>
             <subtype>normal</subtype>
             <span>1</span>
@@ -71564,41 +71505,10 @@
           </Measure>
         <Measure number="68">
           <Rest>
-            <lid>5362</lid>
-            <durationType>quarter</durationType>
+            <lid>5553</lid>
+            <durationType>measure</durationType>
+            <duration z="3" n="4"/>
             </Rest>
-          <Rest>
-            <lid>5363</lid>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Chord>
-            <lid>499</lid>
-            <durationType>eighth</durationType>
-            <Note>
-              <lid>500</lid>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <lid>501</lid>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Note>
-              <lid>502</lid>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <lid>503</lid>
-            <durationType>16th</durationType>
-            <Note>
-              <lid>504</lid>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
           </Measure>
         <Measure number="69">
           <Chord>
@@ -71607,8 +71517,8 @@
             <durationType>quarter</durationType>
             <Note>
               <lid>507</lid>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
+              <pitch>71</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
