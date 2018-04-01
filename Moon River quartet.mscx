@@ -78,6 +78,26 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         </Page>
       <Page>
         <System>
@@ -100,38 +120,12 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
       <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -144,10 +138,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -386,6 +376,7 @@
         <bracket type="-1" span="0"/>
         <barLineSpan>0</barLineSpan>
         </Staff>
+      <show>0</show>
       <trackName>Piano</trackName>
       <Instrument>
         <longName>Piano</longName>
@@ -15027,10 +15018,6 @@
             <subtype>0</subtype>
             </Arpeggio>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="9">
         <Harmony>
@@ -15387,10 +15374,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="25">
         <Harmony>
@@ -15634,10 +15617,6 @@
           <dots>1</dots>
           <durationType>half</durationType>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="49">
         <Chord>
@@ -16009,10 +15988,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="65">
         <Harmony>
@@ -16782,10 +16757,6 @@
             <subtype>0</subtype>
             </Arpeggio>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="89">
         <Harmony>
@@ -17402,10 +17373,6 @@
             <subtype>0</subtype>
             </Arpeggio>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="105">
         <Harmony>
@@ -18178,10 +18145,6 @@
             <subtype>0</subtype>
             </Arpeggio>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="129">
         <Harmony>
@@ -18806,10 +18769,6 @@
             <subtype>0</subtype>
             </Arpeggio>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       <Measure number="145">
         <Harmony>
@@ -19582,10 +19541,6 @@
             <subtype>0</subtype>
             </Arpeggio>
           </Chord>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>2</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="6">
@@ -25442,15 +25397,10 @@
           </Chord>
         </Measure>
       <Measure number="55">
-        <Chord>
-          <lid>3110</lid>
+        <Rest>
+          <lid>5558</lid>
           <durationType>eighth</durationType>
-          <Note>
-            <lid>3111</lid>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <lid>3112</lid>
           <durationType>eighth</durationType>
@@ -31977,50 +31927,25 @@
         </Measure>
       <Measure number="7">
         <Chord>
-          <lid>5298</lid>
-          <durationType>quarter</durationType>
-          <Note>
-            <lid>5299</lid>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <lid>5300</lid>
+          <lid>5554</lid>
+          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <lid>5301</lid>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <lid>5555</lid>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="8">
         <Chord>
-          <lid>5302</lid>
-          <durationType>quarter</durationType>
+          <lid>5556</lid>
+          <dots>1</dots>
+          <durationType>half</durationType>
           <Note>
-            <lid>5303</lid>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <lid>5305</lid>
-          <durationType>quarter</durationType>
-          <Note>
-            <lid>5306</lid>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <lid>5304</lid>
-          <durationType>quarter</durationType>
-          <Note>
-            <lid>5307</lid>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <lid>5557</lid>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -32984,8 +32909,11 @@
           <durationType>quarter</durationType>
           <Note>
             <lid>2837</lid>
-            <pitch>52</pitch>
-            <tpc>18</tpc>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -33998,7 +33926,6 @@
       <Measure number="73">
         <Chord>
           <lid>3451</lid>
-          <dots>1</dots>
           <durationType>half</durationType>
           <Note>
             <lid>3452</lid>
@@ -34006,6 +33933,10 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <lid>5559</lid>
+          <durationType>quarter</durationType>
+          </Rest>
         </Measure>
       <Measure number="74">
         <Chord>
@@ -34517,10 +34448,6 @@
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
-          <Arpeggio>
-            <lid>3784</lid>
-            <subtype>0</subtype>
-            </Arpeggio>
           </Chord>
         </Measure>
       <Measure number="96">
@@ -34668,8 +34595,11 @@
           <durationType>quarter</durationType>
           <Note>
             <lid>3873</lid>
-            <pitch>54</pitch>
-            <tpc>20</tpc>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -36918,8 +36848,8 @@
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <hideEmptyStaves>1</hideEmptyStaves>
         <page-layout>
-          <page-height>1683.36</page-height>
-          <page-width>1190.88</page-width>
+          <page-height>1683.38</page-height>
+          <page-width>1190.89</page-width>
           <page-margins type="even">
             <left-margin>56.6929</left-margin>
             <right-margin>56.6929</right-margin>
@@ -36933,7 +36863,7 @@
             <bottom-margin>113.386</bottom-margin>
             </page-margins>
           </page-layout>
-        <Spatium>1.76389</Spatium>
+        <Spatium>1.364</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
@@ -36956,22 +36886,16 @@
             </System>
           <System>
             </System>
-          </Page>
-        <Page>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
           <System>
             </System>
           <System>
             </System>
           </Page>
         <Page>
+          <System>
+            </System>
+          <System>
+            </System>
           <System>
             </System>
           <System>
@@ -37594,6 +37518,9 @@
             </Chord>
           </Measure>
         <Measure number="24">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>199</lid>
             <dots>1</dots>
@@ -37907,6 +37834,9 @@
           </Measure>
         <Measure number="47" len="6/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <durationType>measure</durationType>
             <duration z="6" n="4"/>
@@ -37918,6 +37848,9 @@
           </Measure>
         <tick>67680</tick>
         <Measure number="48">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <lid>38</lid>
             <durationType>measure</durationType>
@@ -38591,6 +38524,9 @@
             </Chord>
           </Measure>
         <Measure number="64">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>482</lid>
             <durationType>eighth</durationType>
@@ -39300,6 +39236,9 @@
           </Measure>
         <Measure number="87" len="6/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <durationType>measure</durationType>
             <duration z="6" n="4"/>
@@ -39311,6 +39250,9 @@
           </Measure>
         <tick>125280</tick>
         <Measure number="88">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <lid>42</lid>
             <durationType>measure</durationType>
@@ -39571,6 +39513,9 @@
             </Chord>
           </Measure>
         <Measure number="104">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>5511</lid>
             <dots>1</dots>
@@ -39920,6 +39865,9 @@
           </Measure>
         <Measure number="127" len="6/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <durationType>measure</durationType>
             <duration z="6" n="4"/>
@@ -39931,6 +39879,9 @@
           </Measure>
         <tick>182880</tick>
         <Measure number="128">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <lid>17</lid>
             <durationType>measure</durationType>
@@ -40257,6 +40208,9 @@
             </Chord>
           </Measure>
         <Measure number="144">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <HairPin id="54">
             <subtype>0</subtype>
             <lid>5280</lid>
@@ -45350,8 +45304,8 @@
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <hideEmptyStaves>1</hideEmptyStaves>
         <page-layout>
-          <page-height>1683.36</page-height>
-          <page-width>1190.88</page-width>
+          <page-height>1683.38</page-height>
+          <page-width>1190.89</page-width>
           <page-margins type="even">
             <left-margin>56.6929</left-margin>
             <right-margin>56.6929</right-margin>
@@ -45365,7 +45319,7 @@
             <bottom-margin>113.386</bottom-margin>
             </page-margins>
           </page-layout>
-        <Spatium>1.76389</Spatium>
+        <Spatium>1.364</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
@@ -45388,16 +45342,6 @@
             </System>
           <System>
             </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          </Page>
-        <Page>
           <System>
             </System>
           <System>
@@ -50589,8 +50533,8 @@
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <hideEmptyStaves>1</hideEmptyStaves>
         <page-layout>
-          <page-height>1683.36</page-height>
-          <page-width>1190.88</page-width>
+          <page-height>1683.38</page-height>
+          <page-width>1190.89</page-width>
           <page-margins type="even">
             <left-margin>56.6929</left-margin>
             <right-margin>56.6929</right-margin>
@@ -50604,7 +50548,7 @@
             <bottom-margin>113.386</bottom-margin>
             </page-margins>
           </page-layout>
-        <Spatium>1.76389</Spatium>
+        <Spatium>1.364</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
@@ -50625,16 +50569,6 @@
             </System>
           <System>
             </System>
-          </Page>
-        <Page>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
           <System>
             </System>
           <System>
@@ -50653,22 +50587,20 @@
             </System>
           <System>
             </System>
-          </Page>
-        <Page>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
           <System>
             </System>
           <System>
             </System>
           </Page>
         <Page>
+          <System>
+            </System>
+          <System>
+            </System>
+          <System>
+            </System>
+          <System>
+            </System>
           <System>
             </System>
           <System>
@@ -50909,6 +50841,9 @@
             </Chord>
           </Measure>
         <Measure number="8">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>2275</lid>
             <dots>1</dots>
@@ -51813,6 +51748,9 @@
             </Chord>
           </Measure>
         <Measure number="24">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>2558</lid>
             <durationType>eighth</durationType>
@@ -53238,6 +53176,9 @@
             </Chord>
           </Measure>
         <Measure number="48">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>3005</lid>
             <dots>1</dots>
@@ -53573,15 +53514,10 @@
             </Chord>
           </Measure>
         <Measure number="55">
-          <Chord>
-            <lid>3110</lid>
+          <Rest>
+            <lid>5558</lid>
             <durationType>eighth</durationType>
-            <Note>
-              <lid>3111</lid>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           <Chord>
             <lid>3112</lid>
             <durationType>eighth</durationType>
@@ -54178,6 +54114,9 @@
             </Chord>
           </Measure>
         <Measure number="64">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>3282</lid>
             <durationType>eighth</durationType>
@@ -55563,6 +55502,9 @@
             </Chord>
           </Measure>
         <Measure number="88">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>3652</lid>
             <dots>1</dots>
@@ -56464,6 +56406,9 @@
             </Chord>
           </Measure>
         <Measure number="104">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>3936</lid>
             <durationType>eighth</durationType>
@@ -57849,6 +57794,9 @@
             </Rest>
           </Measure>
         <Measure number="128">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <HairPin id="90">
             <subtype>0</subtype>
             <lid>5389</lid>
@@ -58746,6 +58694,9 @@
             </Chord>
           </Measure>
         <Measure number="144">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Chord>
             <lid>4605</lid>
             <durationType>quarter</durationType>
@@ -60137,50 +60088,25 @@
           </Measure>
         <Measure number="7">
           <Chord>
-            <lid>5298</lid>
-            <durationType>quarter</durationType>
-            <Note>
-              <lid>5299</lid>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <lid>5300</lid>
+            <lid>5554</lid>
+            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <lid>5301</lid>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <lid>5555</lid>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </Measure>
         <Measure number="8">
           <Chord>
-            <lid>5302</lid>
-            <durationType>quarter</durationType>
+            <lid>5556</lid>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
-              <lid>5303</lid>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <lid>5305</lid>
-            <durationType>quarter</durationType>
-            <Note>
-              <lid>5306</lid>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <lid>5304</lid>
-            <durationType>quarter</durationType>
-            <Note>
-              <lid>5307</lid>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <lid>5557</lid>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </Measure>
@@ -61144,8 +61070,11 @@
             <durationType>quarter</durationType>
             <Note>
               <lid>2837</lid>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
+              <Accidental>
+                <subtype>flat</subtype>
+                </Accidental>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
               </Note>
             </Chord>
           </Measure>
@@ -62158,7 +62087,6 @@
         <Measure number="73">
           <Chord>
             <lid>3451</lid>
-            <dots>1</dots>
             <durationType>half</durationType>
             <Note>
               <lid>3452</lid>
@@ -62166,6 +62094,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <lid>5559</lid>
+            <durationType>quarter</durationType>
+            </Rest>
           </Measure>
         <Measure number="74">
           <Chord>
@@ -62677,10 +62609,6 @@
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
-            <Arpeggio>
-              <lid>3784</lid>
-              <subtype>0</subtype>
-              </Arpeggio>
             </Chord>
           </Measure>
         <Measure number="96">
@@ -62828,8 +62756,11 @@
             <durationType>quarter</durationType>
             <Note>
               <lid>3873</lid>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <Accidental>
+                <subtype>natural</subtype>
+                </Accidental>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </Measure>
@@ -65080,8 +65011,8 @@
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <hideEmptyStaves>1</hideEmptyStaves>
         <page-layout>
-          <page-height>1683.36</page-height>
-          <page-width>1190.88</page-width>
+          <page-height>1683.38</page-height>
+          <page-width>1190.89</page-width>
           <page-margins type="even">
             <left-margin>56.6929</left-margin>
             <right-margin>56.6929</right-margin>
@@ -65095,7 +65026,7 @@
             <bottom-margin>113.386</bottom-margin>
             </page-margins>
           </page-layout>
-        <Spatium>1.76389</Spatium>
+        <Spatium>1.364</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
@@ -65118,16 +65049,6 @@
             </System>
           <System>
             </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          </Page>
-        <Page>
           <System>
             </System>
           <System>
@@ -69779,8 +69700,8 @@
         <createMultiMeasureRests>1</createMultiMeasureRests>
         <hideEmptyStaves>1</hideEmptyStaves>
         <page-layout>
-          <page-height>1683.36</page-height>
-          <page-width>1190.88</page-width>
+          <page-height>1683.38</page-height>
+          <page-width>1190.89</page-width>
           <page-margins type="even">
             <left-margin>56.6929</left-margin>
             <right-margin>56.6929</right-margin>
@@ -69794,7 +69715,7 @@
             <bottom-margin>113.386</bottom-margin>
             </page-margins>
           </page-layout>
-        <Spatium>1.76389</Spatium>
+        <Spatium>1.364</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
@@ -69819,14 +69740,6 @@
             </System>
           <System>
             </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          <System>
-            </System>
-          </Page>
-        <Page>
           <System>
             </System>
           <System>
