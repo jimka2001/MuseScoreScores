@@ -32871,6 +32871,10 @@
           <durationType>quarter</durationType>
           <Note>
             <lid>2810</lid>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>48</pitch>
             <tpc>14</tpc>
             </Note>
@@ -61004,6 +61008,10 @@
             <durationType>quarter</durationType>
             <Note>
               <lid>2810</lid>
+              <Accidental>
+                <role>1</role>
+                <subtype>natural</subtype>
+                </Accidental>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
