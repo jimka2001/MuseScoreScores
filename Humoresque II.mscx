@@ -4802,10 +4802,10 @@
           <Note>
             <Accidental>
               <role>1</role>
-              <subtype>sharp</subtype>
+              <subtype>natural</subtype>
               </Accidental>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
