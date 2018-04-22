@@ -4783,9 +4783,13 @@
           <durationType>quarter</durationType>
           <Note>
             <lid>358</lid>
-            <pitch>68</pitch>
-            <tpc>10</tpc>
-            <tpc2>12</tpc2>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4823,9 +4827,13 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>615</lid>
-            <pitch>68</pitch>
-            <tpc>10</tpc>
-            <tpc2>12</tpc2>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -8096,8 +8104,12 @@
             </Note>
           <Note>
             <lid>1248</lid>
-            <pitch>68</pitch>
-            <tpc>10</tpc>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           <Note>
             <lid>1249</lid>
@@ -8771,11 +8783,8 @@
             </Note>
           <Note>
             <lid>1549</lid>
-            <Accidental>
-              <subtype>sharp</subtype>
-              </Accidental>
-            <pitch>73</pitch>
-            <tpc>21</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           <Note>
             <lid>1550</lid>
@@ -12800,9 +12809,13 @@
             <durationType>quarter</durationType>
             <Note>
               <lid>358</lid>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>12</tpc2>
+              <Accidental>
+                <role>1</role>
+                <subtype>natural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -12840,9 +12853,13 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>615</lid>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
-              <tpc2>12</tpc2>
+              <Accidental>
+                <role>1</role>
+                <subtype>natural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           </Measure>
@@ -14240,6 +14257,8 @@
             </System>
           </Page>
         <Page>
+          <System>
+            </System>
           <System>
             </System>
           <System>
@@ -18412,8 +18431,11 @@
               </Note>
             <Note>
               <lid>1248</lid>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <Accidental>
+                <subtype>natural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             <Note>
               <lid>1249</lid>
@@ -19087,11 +19109,8 @@
               </Note>
             <Note>
               <lid>1549</lid>
-              <Accidental>
-                <subtype>sharp</subtype>
-                </Accidental>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             <Note>
               <lid>1550</lid>
