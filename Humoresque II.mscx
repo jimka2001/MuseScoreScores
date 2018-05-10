@@ -734,6 +734,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="8"/>
           <Note>
             <pitch>69</pitch>
@@ -767,6 +770,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="9"/>
           <Note>
             <pitch>69</pitch>
@@ -826,6 +832,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="11"/>
           <Note>
             <pitch>71</pitch>
@@ -1541,6 +1550,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="19"/>
           <Note>
             <Accidental>
@@ -1569,6 +1581,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="20"/>
           <Note>
             <Accidental>
@@ -1733,6 +1748,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="23"/>
           <Note>
             <pitch>77</pitch>
@@ -1755,6 +1773,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="24"/>
           <Note>
             <Accidental>
@@ -2623,6 +2644,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>76</pitch>
             <tpc>18</tpc>
@@ -3156,6 +3180,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="37"/>
           <Note>
             <pitch>69</pitch>
@@ -3192,6 +3219,9 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="38"/>
           <Note>
             <pitch>69</pitch>
@@ -3721,10 +3751,11 @@
           <Slur type="stop" id="50"/>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <role>1</role>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>70</pitch>
-            <tpc>12</tpc>
+            <tpc>24</tpc>
             </Note>
           </Chord>
         </Measure>
