@@ -154,6 +154,7 @@
         <Channel>
           <program value="68"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -3018,6 +3019,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="35"/>
           <Note>
             <pitch>76</pitch>
@@ -3131,6 +3135,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="36"/>
           <Note>
             <pitch>72</pitch>
@@ -4348,6 +4355,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -4409,6 +4419,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -4515,6 +4528,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="60"/>
           <Note>
             <pitch>78</pitch>
@@ -4629,6 +4645,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -4646,6 +4665,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>69</pitch>
             <tpc>17</tpc>
@@ -4667,6 +4689,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="61"/>
           <Note>
             <pitch>78</pitch>
@@ -4781,6 +4806,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -4819,6 +4847,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="62"/>
           <Note>
             <pitch>69</pitch>
@@ -4867,6 +4898,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
@@ -4891,6 +4925,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Slur type="stop" id="63"/>
           <Note>
             <pitch>69</pitch>

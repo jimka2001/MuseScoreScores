@@ -51,7 +51,7 @@
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.364</Spatium>
+      <Spatium>1.164</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -88,6 +88,18 @@
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         </Page>
       <Page>
         <System>
@@ -102,40 +114,6 @@
       <Page>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -559,9 +537,6 @@
           </Rest>
         </Measure>
       <Measure number="8">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Rest>
           <lid>10</lid>
           <durationType>measure</durationType>
@@ -708,9 +683,6 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>123</lid>
           <durationType>half</durationType>
@@ -821,9 +793,6 @@
           </Chord>
         </Measure>
       <Measure number="20">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>159</lid>
           <durationType>quarter</durationType>
@@ -969,9 +938,6 @@
           </Chord>
         </Measure>
       <Measure number="24">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>199</lid>
           <dots>1</dots>
@@ -1284,9 +1250,6 @@
           </Rest>
         </Measure>
       <Measure number="48">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Rest>
           <lid>38</lid>
           <durationType>measure</durationType>
@@ -1506,9 +1469,6 @@
           </Chord>
         </Measure>
       <Measure number="54">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>385</lid>
           <durationType>half</durationType>
@@ -1721,9 +1681,6 @@
           </Chord>
         </Measure>
       <Measure number="60">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>434</lid>
           <dots>1</dots>
@@ -1964,9 +1921,6 @@
           </Chord>
         </Measure>
       <Measure number="64">
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>482</lid>
           <durationType>eighth</durationType>
@@ -2021,7 +1975,7 @@
       <Measure number="65">
         <RehearsalMark>
           <lid>495</lid>
-          <pos x="1.68554" y="-5.34133"/>
+          <pos x="0.449446" y="-5.34133"/>
           <text>B2</text>
           </RehearsalMark>
         <Rest>
@@ -2628,9 +2582,6 @@
           </Rest>
         </Measure>
       <Measure number="88">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Rest>
           <lid>42</lid>
           <durationType>measure</durationType>
@@ -2682,9 +2633,6 @@
           </Rest>
         </Measure>
       <Measure number="94">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Rest>
           <lid>696</lid>
           <durationType>measure</durationType>
@@ -2811,9 +2759,6 @@
           </Chord>
         </Measure>
       <Measure number="100">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>5395</lid>
           <durationType>half</durationType>
@@ -2897,9 +2842,6 @@
           </Chord>
         </Measure>
       <Measure number="104">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>5393</lid>
           <dots>1</dots>
@@ -3130,9 +3072,6 @@
           </Rest>
         </Measure>
       <Measure number="117">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>927</lid>
           <dots>1</dots>
@@ -3220,9 +3159,6 @@
           </Rest>
         </Measure>
       <Measure number="123">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Rest>
           <lid>978</lid>
           <durationType>measure</durationType>
@@ -3344,9 +3280,6 @@
           </Chord>
         </Measure>
       <Measure number="134">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <lid>5352</lid>
           <durationType>half</durationType>
@@ -3590,9 +3523,6 @@
           </Chord>
         </Measure>
       <Measure number="144">
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <HairPin id="7">
           <subtype>0</subtype>
           <lid>5221</lid>
