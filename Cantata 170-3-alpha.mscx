@@ -133,16 +133,16 @@
         <height>12.5</height>
         <Text>
           <style>Composer</style>
-          <text><font size="12"/>JS Bach</text>
+          <text><font size="12"></font>JS Bach</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text><font size="24"/>Cantata 170</text>
+          <text><font size="24"></font>Cantata 170</text>
           </Text>
         <Text>
           <style>Subtitle</style>
           <layoutOffset x="0" y="0.39375"/>
-          <text><font size="14"/>Vergnugte Ruh, beliebte Seelenlust</text>
+          <text><font size="14"></font>Vergnugte Ruh, beliebte Seelenlust</text>
           </Text>
         </VBox>
       <Measure>
@@ -161,7 +161,7 @@
           <Tempo>
             <tempo>1.05</tempo>
             <followText>1</followText>
-            <text><font size="12"/><b><sym>metNoteQuarterUp</sym> <sym>metAugmentationDot</sym></b><font face="FreeSerif"/> = 42</text>
+            <text><font size="12"></font><b><sym>metNoteQuarterUp</sym><sym>metAugmentationDot</sym></b><font face="FreeSerif"></font> = 42</text>
             </Tempo>
           <Rest>
             <durationType>measure</durationType>
@@ -6957,6 +6957,7 @@
               </Note>
             </Chord>
           <Rest>
+            <offset x="0.19125" y="2.10375"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -7044,30 +7045,10 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-11/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-11/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
@@ -7230,37 +7211,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <offset x="0" y="3.25125"/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>eighth</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>11/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>11/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -8299,37 +8256,16 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>71</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -12773,6 +12709,7 @@
               </Note>
             </Chord>
           <Rest>
+            <offset x="-0.3825" y="2.295"/>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
@@ -13170,16 +13107,6 @@
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-9/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>60</pitch>
               <tpc>14</tpc>
               </Note>
@@ -13348,25 +13275,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <durationType>16th</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>9/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -18232,17 +18146,6 @@
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-9/8</fractions>
-                    <notes>2</notes>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -18319,19 +18222,6 @@
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>9/8</fractions>
-                    <notes>-2</notes>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
             </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18369,16 +18259,6 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>3/8</fractions>
-                    <notes>2</notes>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>76</pitch>
               <tpc>18</tpc>
               </Note>
@@ -18396,18 +18276,6 @@
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-3/8</fractions>
-                    <notes>-2</notes>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -18450,17 +18318,6 @@
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-9/8</fractions>
-                    <notes>2</notes>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -18596,19 +18453,6 @@
             <Note>
               <pitch>74</pitch>
               <tpc>16</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>9/8</fractions>
-                    <notes>-2</notes>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -20584,15 +20428,6 @@
               <tpc>17</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>61</pitch>
               <tpc>21</tpc>
               </Note>
@@ -20606,17 +20441,6 @@
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
-              </Note>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>61</pitch>
-              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -20822,7 +20646,7 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -20831,7 +20655,7 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>49</pitch>
               <tpc>21</tpc>
@@ -20840,7 +20664,7 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>47</pitch>
               <tpc>19</tpc>
@@ -20849,7 +20673,7 @@
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>45</pitch>
               <tpc>17</tpc>
@@ -20858,7 +20682,7 @@
           </voice>
         <voice>
           <Beam>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20888,7 +20712,7 @@
               </Note>
             </Chord>
           <Beam>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20930,7 +20754,7 @@
               </Note>
             </Chord>
           <Beam>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20960,7 +20784,7 @@
               </Note>
             </Chord>
           <Beam>
-            <StemDirection>down</StemDirection>
+            <StemDirection>up</StemDirection>
             </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
