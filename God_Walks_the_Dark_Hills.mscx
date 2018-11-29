@@ -12,7 +12,6 @@
       <pageWidth>8.27</pageWidth>
       <pageHeight>11.69</pageHeight>
       <pagePrintableWidth>7.4826</pagePrintableWidth>
-      <concertPitch>1</concertPitch>
       <Spatium>1.76389</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
@@ -167,7 +166,6 @@
           <program value="70"/>
           <controller ctrl="10" value="63"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -1511,6 +1509,7 @@
             </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
+            <dots>1</dots>
             <durationType>eighth</durationType>
             <Note>
               <pitch>64</pitch>
@@ -1526,7 +1525,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -1924,24 +1923,15 @@
             </Harmony>
           <Chord>
             <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>3/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
           <location>
-            <fractions>-5/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <root>14</root>
@@ -1953,19 +1943,38 @@
             <root>15</root>
             </Harmony>
           <location>
-            <fractions>1/2</fractions>
+            <fractions>1/8</fractions>
             </location>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
+          <Chord>
+            <BeamMode>begin</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <BeamMode>mid</BeamMode>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>eighth</durationType>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-3/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -1977,7 +1986,7 @@
       <Measure>
         <voice>
           <KeySig>
-            <accidental>1</accidental>
+            <accidental>3</accidental>
             </KeySig>
           <TimeSig>
             <sigN>12</sigN>
@@ -4806,6 +4815,9 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoBelow</subtype>
+              </Articulation>
             <Note>
               <pitch>36</pitch>
               <tpc>14</tpc>
@@ -4971,14 +4983,14 @@
             </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
