@@ -2662,8 +2662,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>55</pitch>
-            <tpc>15</tpc>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4402,8 +4402,8 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
