@@ -10,8 +10,8 @@
     <Division>480</Division>
     <Style>
       <page-layout>
-        <page-height>1683.36</page-height>
-        <page-width>1190.88</page-width>
+        <page-height>1683.38</page-height>
+        <page-width>1190.89</page-width>
         <page-margins type="even">
           <left-margin>56.6929</left-margin>
           <right-margin>56.6929</right-margin>
@@ -25,7 +25,7 @@
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>1.364</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -56,14 +56,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -76,20 +68,22 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
       <Page>
         <System>
           </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -262,6 +256,8 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
+        <topGap>9.05222</topGap>
+        <bottomGap>9.05222</bottomGap>
         <Text>
           <style>Title</style>
           <text>Lady Gaga Fugue</text>
@@ -281,6 +277,11 @@
           <sigD>4</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
+        <Tempo>
+          <tempo>1.33333</tempo>
+          <followText>1</followText>
+          <text><sym>metNoteQuarterUp</sym> = 80</text>
+          </Tempo>
         <Rest>
           <durationType>measure</durationType>
           <duration>4/4</duration>
@@ -305,12 +306,16 @@
           </Rest>
         </Measure>
       <Measure number="5">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration>4/4</duration>
           </Rest>
         </Measure>
       <Measure number="6">
+        <stretch>0.3</stretch>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -355,6 +360,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <stretch>0.7</stretch>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -402,6 +408,7 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <stretch>0.6</stretch>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -446,6 +453,9 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -815,7 +825,7 @@
           </Chord>
         </Measure>
       <Measure number="16">
-        <stretch>0.8</stretch>
+        <stretch>0.2</stretch>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -838,7 +848,7 @@
           </Chord>
         </Measure>
       <Measure number="17">
-        <stretch>0.7</stretch>
+        <stretch>0.5</stretch>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
