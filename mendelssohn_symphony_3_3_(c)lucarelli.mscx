@@ -737,6 +737,7 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
+      <show>0</show>
       <trackName>Violoncellos, Viola</trackName>
       <Instrument>
         <longName>Violoncellos, Viola</longName>
@@ -901,6 +902,7 @@
         <defaultConcertClef>F8vb</defaultConcertClef>
         <defaultTransposingClef>F</defaultTransposingClef>
         </Staff>
+      <show>0</show>
       <trackName>Contrabasses, Contrabasse</trackName>
       <Instrument>
         <longName>Contrabasses, Contrabasse</longName>
