@@ -46137,7 +46137,34 @@
             <durationType>128th</durationType>
             </Rest>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>77</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>77</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <velocity>77</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46146,13 +46173,19 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             </Rest>
           <Rest>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
+            </Rest>
+          <Rest>
+            <durationType>32nd</durationType>
+            </Rest>
+          <Rest>
+            <durationType>32nd</durationType>
             </Rest>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46160,14 +46193,8 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46175,14 +46202,8 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46190,17 +46211,8 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46209,52 +46221,16 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
+            </Rest>
+          <Rest>
+            <durationType>32nd</durationType>
             </Rest>
           <Rest>
             <durationType>128th</durationType>
             </Rest>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
           <Rest>
-            <durationType>64th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>eighth</durationType>
+            <durationType>32nd</durationType>
             </Rest>
           </voice>
         <voice>
@@ -46271,7 +46247,7 @@
             <durationType>64th</durationType>
             </Rest>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46279,9 +46255,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46292,8 +46265,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46304,7 +46275,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46312,9 +46283,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46325,8 +46293,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46337,7 +46303,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46345,9 +46311,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46358,8 +46321,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46370,7 +46331,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46378,9 +46339,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46391,8 +46349,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46481,7 +46437,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46489,9 +46445,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46502,8 +46455,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46514,7 +46465,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46522,9 +46473,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46535,8 +46483,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46547,7 +46493,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46555,9 +46501,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46568,8 +46511,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46580,7 +46521,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46588,9 +46529,6 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -46601,8 +46539,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -46677,7 +46613,7 @@
             <durationType>128th</durationType>
             </Rest>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46689,7 +46625,10 @@
             <durationType>32nd</durationType>
             </Rest>
           <Rest>
-            <durationType>16th</durationType>
+            <durationType>128th</durationType>
+            </Rest>
+          <Rest>
+            <durationType>32nd</durationType>
             </Rest>
           <Rest>
             <durationType>eighth</durationType>
@@ -46707,7 +46646,7 @@
             <durationType>128th</durationType>
             </Rest>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>45</pitch>
               <tpc>17</tpc>
@@ -46716,7 +46655,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>32nd</durationType>
+            <durationType>128th</durationType>
             </Rest>
           </voice>
         <voice>
@@ -46749,7 +46688,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -46757,12 +46696,7 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -47083,7 +47017,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>45</pitch>
               <tpc>17</tpc>
@@ -47091,12 +47025,7 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -47244,6 +47173,12 @@
               </Note>
             </Chord>
           </voice>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -47276,7 +47211,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -47284,12 +47219,7 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
           <endTuplet/>
-          <Beam>
-            </Beam>
           <Chord>
             <durationType>64th</durationType>
             <Note>
@@ -47300,7 +47230,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -47309,7 +47239,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -47318,61 +47248,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              <velocity>77</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -47675,14 +47551,11 @@
           <endTuplet/>
           </voice>
         <voice>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
+          <location>
+            <fractions>3/128</fractions>
+            </location>
           <Chord>
-            <durationType>128th</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
@@ -47691,22 +47564,7 @@
               </Note>
             </Chord>
           <Rest>
-            <durationType>32nd</durationType>
-            </Rest>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Rest>
             <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <durationType>64th</durationType>
-            </Rest>
-          <Rest>
-            <durationType>128th</durationType>
             </Rest>
           <Beam>
             </Beam>
@@ -47788,6 +47646,12 @@
             </Chord>
           <Rest>
             <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -71580,7 +71444,7 @@
           <Beam>
             </Beam>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>16th</durationType>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -71601,7 +71465,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -71616,7 +71480,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -71631,7 +71495,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -71646,7 +71510,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -71661,277 +71525,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>70</pitch>
-              <tpc>24</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>67</pitch>
               <tpc>15</tpc>
@@ -84806,56 +84400,6 @@
           <Rest>
             <durationType>128th</durationType>
             </Rest>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>4</normalNotes>
-            <actualNotes>5</actualNotes>
-            <baseNote>64th</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>5</text>
-              </Number>
-            </Tuplet>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -84871,37 +84415,15 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Chord>
+          <Rest>
+            <durationType>128th</durationType>
+            </Rest>
+          <Rest>
             <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <endTuplet/>
+            </Rest>
+          <Rest>
+            <durationType>32nd</durationType>
+            </Rest>
           <Tuplet>
             <normalNotes>8</normalNotes>
             <actualNotes>7</actualNotes>
@@ -84911,23 +84433,10 @@
               <text>7</text>
               </Number>
             </Tuplet>
+          <Beam>
+            </Beam>
           <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -84942,10 +84451,10 @@
               </Note>
             </Chord>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>-1/384</fractions>
             </location>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -84959,8 +84468,11 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
+          <location>
+            <fractions>-7/1920</fractions>
+            </location>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
@@ -84977,38 +84489,8 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
           <location>
-            <fractions>1/1920</fractions>
+            <fractions>-1/320</fractions>
             </location>
           <Chord>
             <durationType>64th</durationType>
@@ -85041,120 +84523,11 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
+          <location>
+            <fractions>1/128</fractions>
+            </location>
           <Beam>
             </Beam>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Rest>
-            <durationType>128th</durationType>
-            </Rest>
-          <Beam>
-            </Beam>
-          <Chord>
-            <durationType>128th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <velocity>112</velocity>
-              <veloType>user</veloType>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>2</normalNotes>
-            <actualNotes>3</actualNotes>
-            <baseNote>64th</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>3</text>
-              </Number>
-            </Tuplet>
           <Chord>
             <durationType>32nd</durationType>
             <Note>
@@ -85171,7 +84544,7 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>64th</durationType>
+            <durationType>32nd</durationType>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
@@ -85185,7 +84558,24 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
-          <endTuplet/>
+          <Chord>
+            <durationType>32nd</durationType>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <velocity>112</velocity>
+              <veloType>user</veloType>
+              </Note>
+            <Note>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              <velocity>112</velocity>
+              <veloType>user</veloType>
+              </Note>
+            </Chord>
+          <location>
+            <fractions>1/128</fractions>
+            </location>
           </voice>
         </Measure>
       <Measure>
@@ -85289,6 +84679,12 @@
               <veloType>user</veloType>
               </Note>
             </Chord>
+          </voice>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>2/4</duration>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
