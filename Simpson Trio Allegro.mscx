@@ -252,6 +252,10 @@
             <followText>1</followText>
             <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 183</b></text>
             </Tempo>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -3182,6 +3186,15 @@
       <Measure>
         <startRepeat/>
         <voice>
+          <Tempo>
+            <tempo>2.66667</tempo>
+            <followText>1</followText>
+            <text><sym>metNoteHalfUp</sym> = 80</text>
+            </Tempo>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -3757,6 +3770,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -4005,6 +4022,10 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -4069,6 +4090,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -4619,6 +4644,10 @@
           <subtype>page</subtype>
           </LayoutBreak>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -4807,6 +4836,15 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
+          <Tempo>
+            <tempo>3.2</tempo>
+            <followText>1</followText>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96</b></text>
+            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7608,6 +7646,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -7626,6 +7668,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -7687,6 +7733,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -7709,6 +7759,10 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -8931,9 +8985,12 @@
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>73</pitch>
               <tpc>9</tpc>
-              <tpc2>23</tpc2>
+              <tpc2>11</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -10756,6 +10813,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
@@ -11198,6 +11259,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -11574,6 +11639,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -12320,6 +12389,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -12464,6 +12537,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -14148,9 +14225,9 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -14600,9 +14677,9 @@
           <Chord>
             <durationType>half</durationType>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
-              <tpc2>17</tpc2>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
+              <tpc2>15</tpc2>
               </Note>
             </Chord>
           </voice>
@@ -15490,6 +15567,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -15553,6 +15634,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -15619,6 +15704,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -15645,6 +15734,10 @@
             <sigN>2</sigN>
             <sigD>2</sigD>
             </TimeSig>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -17790,6 +17883,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Rest>
             <durationType>measure</durationType>
             <duration>2/2</duration>
@@ -18202,6 +18299,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -18611,6 +18712,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -19471,6 +19576,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -19631,6 +19740,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -21780,6 +21893,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -21841,6 +21958,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -21861,6 +21982,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            </Dynamic>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
