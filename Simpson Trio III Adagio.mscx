@@ -2422,8 +2422,8 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <pitch>77</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -14232,8 +14232,8 @@
               <Note>
                 <linked>
                   </linked>
-                <pitch>79</pitch>
-                <tpc>15</tpc>
+                <pitch>77</pitch>
+                <tpc>13</tpc>
                 </Note>
               </Chord>
             </voice>
