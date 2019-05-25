@@ -154,6 +154,7 @@
         <Channel>
           <program value="68"/>
           <synti>Fluid</synti>
+          <mute>1</mute>
           <midiPort>0</midiPort>
           <midiChannel>3</midiChannel>
           </Channel>
@@ -303,7 +304,7 @@
         <Text>
           <linkedMain/>
           <style>Subtitle</style>
-          <text>Allegro</text>
+          <text>March</text>
           </Text>
         <Text>
           <linkedMain/>
@@ -28467,7 +28468,7 @@
             <linked>
               </linked>
             <style>Subtitle</style>
-            <text>Allegro</text>
+            <text>March</text>
             </Text>
           <Text>
             <linked>
