@@ -230,7 +230,7 @@
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>Allegro</text>
+          <text>I. Allegro</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -250,7 +250,7 @@
           <Tempo>
             <tempo>3.05</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 183</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 183</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
@@ -4843,7 +4843,7 @@
           <Tempo>
             <tempo>3.2</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>

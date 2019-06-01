@@ -304,7 +304,7 @@
         <Text>
           <linkedMain/>
           <style>Subtitle</style>
-          <text>March</text>
+          <text>II. March</text>
           </Text>
         <Text>
           <linkedMain/>
@@ -327,7 +327,7 @@
             <tempo>2.2</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 132</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 132</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
@@ -3290,7 +3290,7 @@
             <tempo>1.86667</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 112</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 112</b></text>
             </Tempo>
           <Spanner type="Volta">
             <prev>
@@ -4925,7 +4925,7 @@
             <tempo>2.2</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 132</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 132</b></text>
             </Tempo>
           <Dynamic>
             <subtype>f</subtype>
@@ -28499,7 +28499,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 132</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 132</b></text>
               </Tempo>
             <Dynamic>
               <subtype>f</subtype>
@@ -30225,9 +30225,6 @@
               <durationType>16th</durationType>
               <Spanner type="Slur">
                 <Slur>
-                  <linked>
-                    <indexDiff>-1</indexDiff>
-                    </linked>
                   </Slur>
                 <next>
                   <location>
@@ -30237,7 +30234,6 @@
                 </Spanner>
               <Note>
                 <linked>
-                  <indexDiff>-1</indexDiff>
                   </linked>
                 <pitch>67</pitch>
                 <tpc>15</tpc>
@@ -31988,7 +31984,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 112</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 112</b></text>
               </Tempo>
             <Spanner type="Volta">
               <prev>
@@ -33857,7 +33853,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 132</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 132</b></text>
               </Tempo>
             <Dynamic>
               <subtype>f</subtype>

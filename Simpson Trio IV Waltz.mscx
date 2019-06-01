@@ -233,7 +233,7 @@
         <Text>
           <linkedMain/>
           <style>Subtitle</style>
-          <text>Waltz</text>
+          <text>IV. Waltz</text>
           </Text>
         <Text>
           <linkedMain/>
@@ -873,7 +873,7 @@
             <tempo>1.66667</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100</b></text>
             </Tempo>
           <Rest>
             <linkedMain/>
@@ -1035,7 +1035,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 120</b></text>
             </Tempo>
           <Dynamic>
             <subtype>mp</subtype>
@@ -1635,7 +1635,7 @@
             <tempo>1.83333</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 110</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 110</b></text>
             </Tempo>
           <Rest>
             <linkedMain/>
@@ -1687,7 +1687,7 @@
             <tempo>1.75</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 105</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 105</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -1737,7 +1737,7 @@
             <tempo>1.66667</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -1900,7 +1900,7 @@
             <tempo>1.6</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96</b></text>
             </Tempo>
           <Dynamic>
             <subtype>p</subtype>
@@ -2879,7 +2879,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 120</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -3333,7 +3333,7 @@
             <tempo>1.75</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 105</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 105</b></text>
             </Tempo>
           <Rest>
             <linkedMain/>
@@ -3443,7 +3443,7 @@
             <tempo>2</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 120</b></text>
             </Tempo>
           <Dynamic>
             <subtype>mf</subtype>
@@ -3646,7 +3646,7 @@
             <tempo>1.83333</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 110</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 110</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -3736,7 +3736,7 @@
             <tempo>1.75</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 105</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 105</b></text>
             </Tempo>
           <Rest>
             <linkedMain/>
@@ -3794,7 +3794,7 @@
             <tempo>1.6</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -10696,7 +10696,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100</b></text>
               </Tempo>
             <Rest>
               <linked>
@@ -10877,7 +10877,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 120</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mp</subtype>
@@ -11550,7 +11550,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 110</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 110</b></text>
               </Tempo>
             <Rest>
               <linked>
@@ -11611,7 +11611,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 105</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 105</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -11669,7 +11669,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 100</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 100</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -11851,7 +11851,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96</b></text>
               </Tempo>
             <Dynamic>
               <subtype>p</subtype>
@@ -13006,7 +13006,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 120</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -13530,7 +13530,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 105</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 105</b></text>
               </Tempo>
             <Rest>
               <linked>
@@ -13649,7 +13649,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 120</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 120</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mf</subtype>
@@ -13883,7 +13883,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 110</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 110</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -13988,7 +13988,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 105</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 105</b></text>
               </Tempo>
             <Rest>
               <linked>
@@ -14055,7 +14055,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 96</b></text>
+              <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 96</b></text>
               </Tempo>
             <Chord>
               <linked>
