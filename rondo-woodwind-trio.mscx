@@ -3244,6 +3244,11 @@
               <subtype>articStaccatoAbove</subtype>
               <linkedMain/>
               </Articulation>
+            <Articulation>
+              <subtype>ornamentTrill</subtype>
+              <ornamentStyle>baroque</ornamentStyle>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>76</pitch>
@@ -5753,15 +5758,12 @@
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>8</timeStretch>
             <linkedMain/>
             </Fermata>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
-            <Articulation>
-              <subtype>articStaccatoAbove</subtype>
-              <linkedMain/>
-              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>69</pitch>
@@ -5798,6 +5800,11 @@
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
+            <Articulation>
+              <subtype>ornamentTrill</subtype>
+              <ornamentStyle>baroque</ornamentStyle>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>76</pitch>
@@ -10832,11 +10839,12 @@
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>8</timeStretch>
             <linkedMain/>
             </Fermata>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>16th</durationType>
             <Note>
               <linkedMain/>
               <pitch>73</pitch>
@@ -10844,6 +10852,14 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -15693,11 +15709,12 @@
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>8</timeStretch>
             <linkedMain/>
             </Fermata>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>16th</durationType>
             <Note>
               <linkedMain/>
               <pitch>73</pitch>
@@ -15705,6 +15722,14 @@
               <tpc2>23</tpc2>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -16272,6 +16297,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -16417,6 +16446,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -16545,6 +16578,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>50</pitch>
@@ -16597,6 +16634,10 @@
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
+            <Articulation>
+              <subtype>articStaccatoAbove</subtype>
+              <linkedMain/>
+              </Articulation>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
@@ -19138,17 +19179,26 @@
         <voice>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <timeStretch>8</timeStretch>
             <linkedMain/>
             </Fermata>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>16th</durationType>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <linkedMain/>
+            <durationType>16th</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            </Rest>
           <Rest>
             <linkedMain/>
             <durationType>eighth</durationType>
@@ -23140,6 +23190,12 @@
                 <linked>
                   </linked>
                 </Articulation>
+              <Articulation>
+                <subtype>ornamentTrill</subtype>
+                <ornamentStyle>baroque</ornamentStyle>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -26168,6 +26224,7 @@
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
+              <timeStretch>8</timeStretch>
               <linked>
                 </linked>
               </Fermata>
@@ -26175,11 +26232,6 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
-              <Articulation>
-                <subtype>articStaccatoAbove</subtype>
-                <linked>
-                  </linked>
-                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -26224,6 +26276,12 @@
               <linked>
                 </linked>
               <durationType>16th</durationType>
+              <Articulation>
+                <subtype>ornamentTrill</subtype>
+                <ornamentStyle>baroque</ornamentStyle>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -27290,6 +27348,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -27464,6 +27527,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -27618,6 +27686,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -27680,6 +27753,11 @@
               <linked>
                 </linked>
               <durationType>eighth</durationType>
+              <Articulation>
+                <subtype>articStaccatoAbove</subtype>
+                <linked>
+                  </linked>
+                </Articulation>
               <Note>
                 <linked>
                   </linked>
@@ -30726,13 +30804,14 @@
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
+              <timeStretch>8</timeStretch>
               <linked>
                 </linked>
               </Fermata>
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>16th</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -30740,6 +30819,16 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -36650,13 +36739,14 @@
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
+              <timeStretch>8</timeStretch>
               <linked>
                 </linked>
               </Fermata>
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>16th</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -36665,6 +36755,16 @@
                 <tpc2>18</tpc2>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
@@ -42397,13 +42497,14 @@
           <voice>
             <Fermata>
               <subtype>fermataAbove</subtype>
+              <timeStretch>8</timeStretch>
               <linked>
                 </linked>
               </Fermata>
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>16th</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -42412,6 +42513,16 @@
                 <tpc2>23</tpc2>
                 </Note>
               </Chord>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              </Rest>
             <Rest>
               <linked>
                 </linked>
