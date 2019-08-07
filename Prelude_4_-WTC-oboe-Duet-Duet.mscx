@@ -90,6 +90,8 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="93" value="64"/>
+          <controller ctrl="91" value="25"/>
           <synti>Fluid</synti>
           <midiPort>0</midiPort>
           <midiChannel>1</midiChannel>
@@ -9225,8 +9227,25 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>65</pitch>
@@ -9755,6 +9774,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -10058,6 +10078,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
+            <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
@@ -12271,8 +12292,25 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>62</pitch>
@@ -12481,8 +12519,25 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <dots>1</dots>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>61</pitch>
+              <tpc>21</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>67</pitch>
@@ -22860,6 +22915,7 @@
             <controller ctrl="32" value="17"/>
             <program value="68"/>
             <synti>Fluid</synti>
+            <mute>1</mute>
             </Channel>
           </Instrument>
         </Part>
@@ -28078,8 +28134,29 @@
             <Chord>
               <linked>
                 </linked>
-              <dots>1</dots>
-              <durationType>quarter</durationType>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>60</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -28682,9 +28759,13 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
+            <Beam>
+              <StemDirection>down</StemDirection>
+              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>begin</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -29017,8 +29098,8 @@
           <voice>
             <Beam>
               <Fragment>
-                <y1>-2.60637</y1>
-                <y2>-3.8281</y2>
+                <y1>-1.99181</y1>
+                <y2>-1.36989</y2>
                 </Fragment>
               </Beam>
             <Chord>
@@ -29046,9 +29127,13 @@
                 <tpc>19</tpc>
                 </Note>
               </Chord>
+            <Beam>
+              <StemDirection>down</StemDirection>
+              </Beam>
             <Chord>
               <linked>
                 </linked>
+              <BeamMode>begin</BeamMode>
               <durationType>16th</durationType>
               <Note>
                 <linked>
@@ -29311,13 +29396,13 @@
             <Rest>
               <linked>
                 </linked>
-              <offset x="2.65786" y="-1.84006"/>
+              <offset x="2.65786" y="-0.406102"/>
               <durationType>quarter</durationType>
               </Rest>
             <Rest>
               <linked>
                 </linked>
-              <offset x="0.204451" y="-2.04451"/>
+              <offset x="0.614153" y="-0.405702"/>
               <durationType>eighth</durationType>
               </Rest>
             <Chord>
@@ -31192,8 +31277,8 @@
           <voice>
             <Beam>
               <Fragment>
-                <y1>7.51293</y1>
-                <y2>7.16386</y2>
+                <y1>6.48868</y1>
+                <y2>6.13961</y2>
                 </Fragment>
               </Beam>
             <Chord>
@@ -31637,8 +31722,29 @@
             <Chord>
               <linked>
                 </linked>
-              <dots>1</dots>
-              <durationType>quarter</durationType>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>57</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -31881,8 +31987,29 @@
             <Chord>
               <linked>
                 </linked>
-              <dots>1</dots>
-              <durationType>quarter</durationType>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>61</pitch>
+                <tpc>21</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>64</pitch>
+                <tpc>18</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>eighth</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -34921,8 +35048,8 @@
             <Beam>
               <StemDirection>down</StemDirection>
               <Fragment>
-                <y1>-3.78936</y1>
-                <y2>-2.85851</y2>
+                <y1>2.56102</y1>
+                <y2>3.49187</y2>
                 </Fragment>
               </Beam>
             <Chord>
@@ -35419,8 +35546,8 @@
             <Beam>
               <StemDirection>down</StemDirection>
               <Fragment>
-                <y1>7.45485</y1>
-                <y2>8.44388</y2>
+                <y1>4.38209</y1>
+                <y2>5.37112</y2>
                 </Fragment>
               </Beam>
             <Chord>
@@ -35513,8 +35640,8 @@
             <Beam>
               <StemDirection>down</StemDirection>
               <Fragment>
-                <y1>2.15108</y1>
-                <y2>4.59371</y2>
+                <y1>1.53653</y1>
+                <y2>3.97916</y2>
                 </Fragment>
               </Beam>
             <Chord>
