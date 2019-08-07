@@ -1481,6 +1481,17 @@
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-5/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -1489,16 +1500,19 @@
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            </Beam>
           <Chord>
             <linkedMain/>
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>5/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -19485,6 +19499,18 @@
                 <Accidental>
                   <subtype>accidentalNatural</subtype>
                   </Accidental>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      <fractions>-5/4</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>71</pitch>
                 <tpc>19</tpc>
                 </Note>
@@ -19493,8 +19519,6 @@
           </Measure>
         <Measure>
           <voice>
-            <Beam>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
@@ -19502,9 +19526,14 @@
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalNatural</subtype>
-                  </Accidental>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      <fractions>5/4</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>71</pitch>
                 <tpc>19</tpc>
                 </Note>
@@ -24194,6 +24223,18 @@
                 <Accidental>
                   <subtype>accidentalNatural</subtype>
                   </Accidental>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      <fractions>-5/4</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>71</pitch>
                 <tpc>19</tpc>
                 </Note>
@@ -24202,8 +24243,6 @@
           </Measure>
         <Measure>
           <voice>
-            <Beam>
-              </Beam>
             <Chord>
               <linked>
                 </linked>
@@ -24211,9 +24250,14 @@
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalNatural</subtype>
-                  </Accidental>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      <fractions>5/4</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>71</pitch>
                 <tpc>19</tpc>
                 </Note>
