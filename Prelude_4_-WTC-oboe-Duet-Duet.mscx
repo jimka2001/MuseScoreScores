@@ -90,6 +90,7 @@
           <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
+          <controller ctrl="7" value="77"/>
           <controller ctrl="93" value="64"/>
           <controller ctrl="91" value="25"/>
           <synti>Fluid</synti>
@@ -22915,7 +22916,6 @@
             <controller ctrl="32" value="17"/>
             <program value="68"/>
             <synti>Fluid</synti>
-            <mute>1</mute>
             </Channel>
           </Instrument>
         </Part>
@@ -25969,8 +25969,8 @@
               </Chord>
             <Beam>
               <Fragment>
-                <y1>5.5041</y1>
-                <y2>6.49312</y2>
+                <y1>3.04589</y1>
+                <y2>1.5767</y2>
                 </Fragment>
               </Beam>
             <Chord>
