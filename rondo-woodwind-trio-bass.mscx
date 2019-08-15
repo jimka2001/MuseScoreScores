@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.01">
-  <programVersion>3.2.2</programVersion>
-  <programRevision>c893c61</programRevision>
+  <programVersion>3.2.3</programVersion>
+  <programRevision>d2d863f</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
+      <master>
+        <val id="0">Zita1</val>
+        <val id="1">NoEffect</val>
+        <val id="2">0.1</val>
+        <val id="3">440</val>
+        <val id="4">1</val>
+        <val id="5">1</val>
+        </master>
+      <Fluid>
+        <val id="0">MuseScore_General.sf3</val>
+        </Fluid>
+      <Zerberus>
+        </Zerberus>
+      <Zita1>
+        <val id="0">0.25</val>
+        <val id="1">0.462756</val>
+        <val id="2">0.161809</val>
+        <val id="3">0.333333</val>
+        <val id="4">0.25</val>
+        <val id="5">0.335245</val>
+        <val id="6">0.5</val>
+        <val id="7">0.664755</val>
+        <val id="8">0.5</val>
+        <val id="9">0.33</val>
+        </Zita1>
       <master>
         <val id="0">Zita1</val>
         <val id="1">NoEffect</val>
@@ -16969,16 +16994,6 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>eighth</durationType>
-            <appoggiatura/>
-            <Note>
-              <linkedMain/>
-              <pitch>35</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
@@ -16997,6 +17012,181 @@
       <LayerTag id="0" tag="default"></LayerTag>
       <currentLayer>0</currentLayer>
       <Synthesizer>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
         <master>
           <val id="0">Zita1</val>
           <val id="1">NoEffect</val>
@@ -27075,6 +27265,181 @@
           <val id="8">0.5</val>
           <val id="9">0.33</val>
           </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
         </Synthesizer>
       <Division>480</Division>
       <Style>
@@ -33155,6 +33520,181 @@
           <val id="8">0.5</val>
           <val id="9">0.33</val>
           </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
+        <master>
+          <val id="0">Zita1</val>
+          <val id="1">NoEffect</val>
+          <val id="2">0.1</val>
+          <val id="3">440</val>
+          <val id="4">1</val>
+          <val id="5">1</val>
+          </master>
+        <Fluid>
+          <val id="0">MuseScore_General.sf3</val>
+          </Fluid>
+        <Zerberus>
+          </Zerberus>
+        <Zita1>
+          <val id="0">0.25</val>
+          <val id="1">0.462756</val>
+          <val id="2">0.161809</val>
+          <val id="3">0.333333</val>
+          <val id="4">0.25</val>
+          <val id="5">0.335245</val>
+          <val id="6">0.5</val>
+          <val id="7">0.664755</val>
+          <val id="8">0.5</val>
+          <val id="9">0.33</val>
+          </Zita1>
         </Synthesizer>
       <Division>480</Division>
       <Style>
@@ -37436,18 +37976,6 @@
           </Measure>
         <Measure>
           <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              <appoggiatura/>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>35</pitch>
-                <tpc>19</tpc>
-                </Note>
-              </Chord>
             <Chord>
               <linked>
                 </linked>
