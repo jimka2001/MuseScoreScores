@@ -400,10 +400,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.33333</tempo>
+            <tempo>1.5</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 90</b></text>
             </Tempo>
           <Chord>
             <linkedMain/>
@@ -18283,11 +18283,11 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.33333</tempo>
+              <tempo>1.5</tempo>
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 80</text>
+              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>
@@ -23005,11 +23005,11 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.33333</tempo>
+              <tempo>1.5</tempo>
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 80</text>
+              <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 90</b></text>
               </Tempo>
             <Chord>
               <linked>
