@@ -23,6 +23,7 @@
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
       <barNoteDistance>1.2</barNoteDistance>
       <harmonyFretDist>0.5</harmonyFretDist>
+      <hideEmptyStaves>1</hideEmptyStaves>
       <defaultFramePadding>0.5</defaultFramePadding>
       <defaultFrameWidth>0.2</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
@@ -145,6 +146,7 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
+      <show>0</show>
       <trackName>Violín, Violini I</trackName>
       <Instrument>
         <longName>Violín, Violini I</longName>
@@ -184,7 +186,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="18"/>
           <program value="40"/>
           <controller ctrl="7" value="105"/>
           <synti>Fluid</synti>
@@ -205,6 +207,7 @@
         <StaffType group="pitched">
           </StaffType>
         </Staff>
+      <show>0</show>
       <trackName>Violín, Violini II</trackName>
       <Instrument>
         <longName>Violín, Violini II</longName>
@@ -244,7 +247,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <controller ctrl="32" value="17"/>
+          <controller ctrl="32" value="18"/>
           <program value="40"/>
           <controller ctrl="7" value="105"/>
           <synti>Fluid</synti>
@@ -266,6 +269,7 @@
           </StaffType>
         <defaultClef>C3</defaultClef>
         </Staff>
+      <show>0</show>
       <trackName>Viola, Viole</trackName>
       <Instrument>
         <longName>Viola, Viole</longName>
@@ -328,6 +332,7 @@
           </StaffType>
         <defaultClef>C3</defaultClef>
         </Staff>
+      <show>0</show>
       <trackName>Viola Tenor, Violoncelli</trackName>
       <Instrument>
         <longName>Viola Tenor, Violoncelli</longName>
@@ -399,6 +404,7 @@
           </StaffType>
         <defaultClef>F</defaultClef>
         </Staff>
+      <show>0</show>
       <trackName>Violonchelo, Contrabbassi</trackName>
       <Instrument>
         <longName>Violonchelo</longName>
@@ -3188,6 +3194,10 @@ Concerto in E minor for Basson, RV 484</text>
           </voice>
         </Measure>
       <Measure>
+        <MeasureNumber>
+          <offset x="-73.9669" y="0.29949"/>
+          <text>31</text>
+          </MeasureNumber>
         <voice>
           <Chord>
             <durationType>32nd</durationType>
