@@ -23,7 +23,6 @@
       <clefKeyRightMargin>1.75</clefKeyRightMargin>
       <barNoteDistance>1.2</barNoteDistance>
       <harmonyFretDist>0.5</harmonyFretDist>
-      <concertPitch>1</concertPitch>
       <defaultFramePadding>0.5</defaultFramePadding>
       <defaultFrameWidth>0.2</defaultFrameWidth>
       <defaultFrameRound>25</defaultFrameRound>
@@ -362,10 +361,6 @@
         </VBox>
       <Measure len="1/4">
         <voice>
-          <KeySig>
-            <linkedMain/>
-            <accidental>-2</accidental>
-            </KeySig>
           <TimeSig>
             <linkedMain/>
             <sigN>4</sigN>
@@ -1585,6 +1580,7 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <linkedMain/>
                 </Slur>
               <next>
                 <location>
@@ -2019,27 +2015,11 @@
               </Spanner>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
-              </Note>
-            </Chord>
-          <Chord>
-            <linkedMain/>
-            <durationType>16th</durationType>
-            <Note>
-              <linkedMain/>
               <pitch>65</pitch>
               <tpc>13</tpc>
               <tpc2>15</tpc2>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <linkedMain/>
             <durationType>16th</durationType>
@@ -2050,9 +2030,12 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
             <linkedMain/>
-            <durationType>16th</durationType>
+            <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
               <pitch>69</pitch>
@@ -2626,7 +2609,7 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalNatural</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -2643,7 +2626,7 @@
             <Note>
               <linkedMain/>
               <Accidental>
-                <subtype>accidentalNatural</subtype>
+                <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>64</pitch>
               <tpc>18</tpc>
@@ -4054,6 +4037,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <linkedMain/>
             </Breath>
           <Dynamic>
             <subtype>mp</subtype>
@@ -6610,6 +6594,7 @@
             </Chord>
           <BarLine>
             <subtype>end</subtype>
+            <linkedMain/>
             </BarLine>
           </voice>
         </Measure>
@@ -6924,6 +6909,7 @@
             </Chord>
           <Breath>
             <symbol>breathMarkComma</symbol>
+            <linkedMain/>
             </Breath>
           <Dynamic>
             <subtype>mp</subtype>
@@ -8885,6 +8871,7 @@
                   </location>
                 </prev>
               </Spanner>
+            <StemDirection>up</StemDirection>
             <Note>
               <linkedMain/>
               <pitch>53</pitch>
@@ -10188,20 +10175,65 @@
         <pageWidth>8.27</pageWidth>
         <pageHeight>11.69</pageHeight>
         <pagePrintableWidth>7.4826</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-        <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
-        <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+        <lyricsDashForce>0</lyricsDashForce>
+        <doubleBarDistance>0.46</doubleBarDistance>
+        <endBarDistance>0.65</endBarDistance>
+        <clefLeftMargin>0.64</clefLeftMargin>
+        <clefKeyRightMargin>1.75</clefKeyRightMargin>
+        <barNoteDistance>1.2</barNoteDistance>
+        <harmonyFretDist>0.5</harmonyFretDist>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <defaultFramePadding>0.5</defaultFramePadding>
+        <defaultFrameWidth>0.2</defaultFrameWidth>
+        <defaultFrameRound>25</defaultFrameRound>
+        <titleFramePadding>0.5</titleFramePadding>
+        <titleFrameWidth>0.2</titleFrameWidth>
+        <titleFrameRound>25</titleFrameRound>
+        <subTitleFramePadding>0.5</subTitleFramePadding>
+        <subTitleFrameWidth>0.2</subTitleFrameWidth>
+        <subTitleFrameRound>25</subTitleFrameRound>
+        <composerFramePadding>0.5</composerFramePadding>
+        <composerFrameWidth>0.2</composerFrameWidth>
+        <composerFrameRound>25</composerFrameRound>
+        <lyricistFramePadding>0.5</lyricistFramePadding>
+        <lyricistFrameWidth>0.2</lyricistFrameWidth>
+        <lyricistFrameRound>25</lyricistFrameRound>
+        <fingeringFramePadding>0.5</fingeringFramePadding>
+        <fingeringFrameWidth>0.2</fingeringFrameWidth>
+        <fingeringFrameRound>25</fingeringFrameRound>
+        <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
+        <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
+        <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+        <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
+        <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
+        <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+        <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
+        <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
+        <partInstrumentFrameRound>25</partInstrumentFrameRound>
+        <tempoFramePadding>0.5</tempoFramePadding>
+        <tempoFrameWidth>0.2</tempoFrameWidth>
+        <tempoFrameRound>25</tempoFrameRound>
+        <systemFramePadding>0.5</systemFramePadding>
+        <systemFrameWidth>0.2</systemFrameWidth>
+        <systemFrameRound>25</systemFrameRound>
+        <staffAlign>left,top</staffAlign>
+        <staffPosAbove x="0" y="-4"/>
+        <staffFramePadding>0.5</staffFramePadding>
+        <staffFrameWidth>0.2</staffFrameWidth>
+        <staffFrameRound>25</staffFrameRound>
+        <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
+        <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
+        <repeatLeftFrameRound>25</repeatLeftFrameRound>
+        <repeatRightFramePadding>0.5</repeatRightFramePadding>
+        <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
+        <repeatRightFrameRound>25</repeatRightFrameRound>
         <Spatium>1.76389</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
       <showFrames>1</showFrames>
       <showMargins>0</showMargins>
-      <metaTag name="partName">Oboe</metaTag>
+      <metaTag name="partName">B♭ Clarinet</metaTag>
       <Part>
         <Staff id="1">
           <linkedTo>1</linkedTo>
@@ -10209,16 +10241,18 @@
             <name>stdNormal</name>
             </StaffType>
           </Staff>
-        <trackName>Oboe</trackName>
+        <trackName>B♭ Clarinet</trackName>
         <Instrument>
-          <longName>Oboe</longName>
-          <shortName>Ob.</shortName>
-          <trackName>Oboe</trackName>
-          <minPitchP>58</minPitchP>
-          <maxPitchP>93</maxPitchP>
-          <minPitchA>58</minPitchA>
-          <maxPitchA>87</maxPitchA>
-          <instrumentId>wind.reed.oboe</instrumentId>
+          <longName>B♭ Clarinet</longName>
+          <shortName>B♭ Cl.</shortName>
+          <trackName>B♭ Clarinet</trackName>
+          <minPitchP>50</minPitchP>
+          <maxPitchP>94</maxPitchP>
+          <minPitchA>50</minPitchA>
+          <maxPitchA>89</maxPitchA>
+          <transposeDiatonic>-1</transposeDiatonic>
+          <transposeChromatic>-2</transposeChromatic>
+          <instrumentId>wind.reed.clarinet.bflat</instrumentId>
           <Articulation>
             <velocity>100</velocity>
             <gateTime>100</gateTime>
@@ -10244,11 +10278,25 @@
             <gateTime>67</gateTime>
             </Articulation>
           <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+            </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoTenuto">
             <velocity>120</velocity>
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
-            <program value="68"/>
+            <controller ctrl="0" value="0"/>
+            <controller ctrl="32" value="17"/>
+            <program value="71"/>
             <synti>Fluid</synti>
             </Channel>
           </Instrument>
@@ -10266,16 +10314,11 @@
             </Text>
           <Text>
             <style>Instrument Name (Part)</style>
-            <text>Oboe</text>
+            <text>B♭ Clarinet</text>
             </Text>
           </VBox>
         <Measure len="1/4">
           <voice>
-            <KeySig>
-              <linked>
-                </linked>
-              <accidental>0</accidental>
-              </KeySig>
             <TimeSig>
               <linked>
                 </linked>
@@ -10289,7 +10332,7 @@
                 </linked>
               </Dynamic>
             <Tempo>
-              <tempo>1.33333</tempo>
+              <tempo>1.5</tempo>
               <followText>1</followText>
               <linked>
                 </linked>
@@ -10314,7 +10357,6 @@
             <RehearsalMark>
               <linked>
                 </linked>
-              <offset x="1.05" y="-2.775"/>
               <text>A</text>
               </RehearsalMark>
             <Chord>
@@ -10737,8 +10779,6 @@
               <durationType>measure</durationType>
               <duration>20/4</duration>
               </Rest>
-            <BarLine>
-              </BarLine>
             </voice>
           </Measure>
         <Measure>
@@ -10782,9 +10822,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -11299,9 +11336,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -11374,6 +11408,7 @@
                 <pitch>79</pitch>
                 <tpc>15</tpc>
                 <tpc2>17</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             <Chord>
@@ -11393,6 +11428,7 @@
                 <pitch>77</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             </voice>
@@ -11420,6 +11456,7 @@
                 <pitch>75</pitch>
                 <tpc>11</tpc>
                 <tpc2>13</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             <Chord>
@@ -11439,6 +11476,7 @@
                 <pitch>77</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             </voice>
@@ -11466,6 +11504,7 @@
                 <pitch>79</pitch>
                 <tpc>15</tpc>
                 <tpc2>17</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             <Chord>
@@ -11485,6 +11524,7 @@
                 <pitch>81</pitch>
                 <tpc>17</tpc>
                 <tpc2>19</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             </voice>
@@ -11595,6 +11635,7 @@
                 <pitch>77</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             <Chord>
@@ -11614,6 +11655,7 @@
                 <pitch>72</pitch>
                 <tpc>14</tpc>
                 <tpc2>16</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             </voice>
@@ -11630,6 +11672,7 @@
                 <pitch>74</pitch>
                 <tpc>16</tpc>
                 <tpc2>18</tpc2>
+                <play>0</play>
                 </Note>
               </Chord>
             </voice>
@@ -11665,6 +11708,17 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <Slur>
+                  <linked>
+                    </linked>
+                  </Slur>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -11677,6 +11731,13 @@
               <linked>
                 </linked>
               <durationType>quarter</durationType>
+              <Spanner type="Slur">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <Note>
                 <linked>
                   </linked>
@@ -11831,9 +11892,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -12150,21 +12208,6 @@
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>64</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
-                </Note>
-              </Chord>
-            <Chord>
-              <linked>
-                </linked>
-              <durationType>16th</durationType>
-              <Note>
-                <linked>
-                  </linked>
                 <pitch>65</pitch>
                 <tpc>13</tpc>
                 <tpc2>15</tpc2>
@@ -12182,10 +12225,13 @@
                 <tpc2>17</tpc2>
                 </Note>
               </Chord>
+            <Beam>
+              <StemDirection>up</StemDirection>
+              </Beam>
             <Chord>
               <linked>
                 </linked>
-              <durationType>16th</durationType>
+              <durationType>eighth</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -12278,9 +12324,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -12613,6 +12656,7 @@
               <durationType>half</durationType>
               <Articulation>
                 <subtype>ornamentMordent</subtype>
+                <ornamentStyle>baroque</ornamentStyle>
                 <linked>
                   </linked>
                 </Articulation>
@@ -13220,9 +13264,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -13586,9 +13627,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -14019,6 +14057,7 @@
               </Breath>
             <Fermata>
               <subtype>fermataShortAbove</subtype>
+              <timeStretch>1.5</timeStretch>
               <linked>
                 </linked>
               </Fermata>
@@ -14058,7 +14097,7 @@
             </voice>
           </Measure>
         </Staff>
-      <name>Oboe</name>
+      <name>B♭ Clarinet</name>
       </Score>
     <Score>
       <LayerTag id="0" tag="default"></LayerTag>
@@ -14068,39 +14107,84 @@
         <pageWidth>8.27</pageWidth>
         <pageHeight>11.69</pageHeight>
         <pagePrintableWidth>7.4826</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-        <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
-        <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+        <lyricsDashForce>0</lyricsDashForce>
+        <doubleBarDistance>0.46</doubleBarDistance>
+        <endBarDistance>0.65</endBarDistance>
+        <clefLeftMargin>0.64</clefLeftMargin>
+        <clefKeyRightMargin>1.75</clefKeyRightMargin>
+        <barNoteDistance>1.2</barNoteDistance>
+        <harmonyFretDist>0.5</harmonyFretDist>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <defaultFramePadding>0.5</defaultFramePadding>
+        <defaultFrameWidth>0.2</defaultFrameWidth>
+        <defaultFrameRound>25</defaultFrameRound>
+        <titleFramePadding>0.5</titleFramePadding>
+        <titleFrameWidth>0.2</titleFrameWidth>
+        <titleFrameRound>25</titleFrameRound>
+        <subTitleFramePadding>0.5</subTitleFramePadding>
+        <subTitleFrameWidth>0.2</subTitleFrameWidth>
+        <subTitleFrameRound>25</subTitleFrameRound>
+        <composerFramePadding>0.5</composerFramePadding>
+        <composerFrameWidth>0.2</composerFrameWidth>
+        <composerFrameRound>25</composerFrameRound>
+        <lyricistFramePadding>0.5</lyricistFramePadding>
+        <lyricistFrameWidth>0.2</lyricistFrameWidth>
+        <lyricistFrameRound>25</lyricistFrameRound>
+        <fingeringFramePadding>0.5</fingeringFramePadding>
+        <fingeringFrameWidth>0.2</fingeringFrameWidth>
+        <fingeringFrameRound>25</fingeringFrameRound>
+        <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
+        <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
+        <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+        <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
+        <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
+        <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+        <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
+        <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
+        <partInstrumentFrameRound>25</partInstrumentFrameRound>
+        <tempoFramePadding>0.5</tempoFramePadding>
+        <tempoFrameWidth>0.2</tempoFrameWidth>
+        <tempoFrameRound>25</tempoFrameRound>
+        <systemFramePadding>0.5</systemFramePadding>
+        <systemFrameWidth>0.2</systemFrameWidth>
+        <systemFrameRound>25</systemFrameRound>
+        <staffAlign>left,top</staffAlign>
+        <staffPosAbove x="0" y="-4"/>
+        <staffFramePadding>0.5</staffFramePadding>
+        <staffFrameWidth>0.2</staffFrameWidth>
+        <staffFrameRound>25</staffFrameRound>
+        <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
+        <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
+        <repeatLeftFrameRound>25</repeatLeftFrameRound>
+        <repeatRightFramePadding>0.5</repeatRightFramePadding>
+        <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
+        <repeatRightFrameRound>25</repeatRightFrameRound>
         <Spatium>1.76389</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
       <showFrames>1</showFrames>
       <showMargins>0</showMargins>
-      <metaTag name="partName">English Horn</metaTag>
+      <metaTag name="partName">Baritone Oboe</metaTag>
       <Part>
         <Staff id="1">
           <linkedTo>2</linkedTo>
           <StaffType group="pitched">
             <name>stdNormal</name>
             </StaffType>
+          <defaultClef>G8vb</defaultClef>
           </Staff>
-        <trackName>English Horn</trackName>
+        <trackName>Baritone Oboe</trackName>
         <Instrument>
-          <longName>English Horn</longName>
-          <shortName>E. Hn.</shortName>
-          <trackName>English Horn</trackName>
-          <minPitchP>52</minPitchP>
-          <maxPitchP>83</maxPitchP>
-          <minPitchA>52</minPitchA>
-          <maxPitchA>81</maxPitchA>
-          <transposeDiatonic>-4</transposeDiatonic>
-          <transposeChromatic>-7</transposeChromatic>
-          <instrumentId>wind.reed.english-horn</instrumentId>
+          <longName>Baritone Oboe</longName>
+          <shortName>Bar. Ob.</shortName>
+          <trackName>Baritone Oboe</trackName>
+          <minPitchP>47</minPitchP>
+          <maxPitchP>78</maxPitchP>
+          <minPitchA>47</minPitchA>
+          <maxPitchA>76</maxPitchA>
+          <instrumentId>wind.reed.oboe.bass</instrumentId>
+          <clef>G8vb</clef>
           <Articulation>
             <velocity>100</velocity>
             <gateTime>100</gateTime>
@@ -14126,11 +14210,25 @@
             <gateTime>67</gateTime>
             </Articulation>
           <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+            </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoTenuto">
             <velocity>120</velocity>
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
-            <program value="69"/>
+            <controller ctrl="0" value="0"/>
+            <controller ctrl="32" value="17"/>
+            <program value="68"/>
             <synti>Fluid</synti>
             </Channel>
           </Instrument>
@@ -14154,7 +14252,7 @@
             </Text>
           <Text>
             <style>Instrument Name (Part)</style>
-            <text>English Horn</text>
+            <text>Baritone Oboe</text>
             </Text>
           </VBox>
         <Measure len="1/4">
@@ -14171,13 +14269,13 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.33333</tempo>
+              <tempo>1.5</tempo>
               <followText>1</followText>
               <linked>
                 <location>
                   <staves>-1</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>4</indexDiff>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 90</text>
               </Tempo>
@@ -14216,18 +14314,12 @@
                   <staves>-1</staves>
                   </location>
                 </linked>
-              <offset x="2.5875" y="-2.6625"/>
               <text>A</text>
               </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
-              <duration>24/4</duration>
+              <duration>20/4</duration>
               </Rest>
-            <location>
-              <fractions>-1/1</fractions>
-              </location>
-            <BarLine>
-              </BarLine>
             </voice>
           </Measure>
         <Measure>
@@ -14596,9 +14688,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -14614,6 +14703,8 @@
               </Chord>
             <Breath>
               <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
               </Breath>
             <Dynamic>
               <subtype>mp</subtype>
@@ -14961,9 +15052,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -15386,9 +15474,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -15613,9 +15698,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -16011,9 +16093,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -16462,9 +16541,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -16687,7 +16763,7 @@
                   </prev>
                 </Spanner>
               <Articulation>
-                <subtype>articStaccatoBelow</subtype>
+                <subtype>articStaccatoAbove</subtype>
                 <linked>
                   </linked>
                 </Articulation>
@@ -17017,9 +17093,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -17350,9 +17423,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -17595,6 +17665,7 @@
               </Rest>
             <Fermata>
               <subtype>fermataShortAbove</subtype>
+              <timeStretch>1.5</timeStretch>
               <linked>
                 </linked>
               </Fermata>
@@ -17626,11 +17697,13 @@
               </Chord>
             <BarLine>
               <subtype>end</subtype>
+              <linked>
+                </linked>
               </BarLine>
             </voice>
           </Measure>
         </Staff>
-      <name>O_Come_O_Come_Emmanuel_3b_oboes-English_Horn</name>
+      <name>Baritone Oboe</name>
       </Score>
     <Score>
       <LayerTag id="0" tag="default"></LayerTag>
@@ -17640,39 +17713,84 @@
         <pageWidth>8.27</pageWidth>
         <pageHeight>11.69</pageHeight>
         <pagePrintableWidth>7.4826</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-        <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
-        <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+        <lyricsDashForce>0</lyricsDashForce>
+        <doubleBarDistance>0.46</doubleBarDistance>
+        <endBarDistance>0.65</endBarDistance>
+        <clefLeftMargin>0.64</clefLeftMargin>
+        <clefKeyRightMargin>1.75</clefKeyRightMargin>
+        <barNoteDistance>1.2</barNoteDistance>
+        <harmonyFretDist>0.5</harmonyFretDist>
         <createMultiMeasureRests>1</createMultiMeasureRests>
+        <defaultFramePadding>0.5</defaultFramePadding>
+        <defaultFrameWidth>0.2</defaultFrameWidth>
+        <defaultFrameRound>25</defaultFrameRound>
+        <titleFramePadding>0.5</titleFramePadding>
+        <titleFrameWidth>0.2</titleFrameWidth>
+        <titleFrameRound>25</titleFrameRound>
+        <subTitleFramePadding>0.5</subTitleFramePadding>
+        <subTitleFrameWidth>0.2</subTitleFrameWidth>
+        <subTitleFrameRound>25</subTitleFrameRound>
+        <composerFramePadding>0.5</composerFramePadding>
+        <composerFrameWidth>0.2</composerFrameWidth>
+        <composerFrameRound>25</composerFrameRound>
+        <lyricistFramePadding>0.5</lyricistFramePadding>
+        <lyricistFrameWidth>0.2</lyricistFrameWidth>
+        <lyricistFrameRound>25</lyricistFrameRound>
+        <fingeringFramePadding>0.5</fingeringFramePadding>
+        <fingeringFrameWidth>0.2</fingeringFrameWidth>
+        <fingeringFrameRound>25</fingeringFrameRound>
+        <lhGuitarFingeringFramePadding>0.5</lhGuitarFingeringFramePadding>
+        <lhGuitarFingeringFrameWidth>0.2</lhGuitarFingeringFrameWidth>
+        <lhGuitarFingeringFrameRound>25</lhGuitarFingeringFrameRound>
+        <rhGuitarFingeringFramePadding>0.5</rhGuitarFingeringFramePadding>
+        <rhGuitarFingeringFrameWidth>0.2</rhGuitarFingeringFrameWidth>
+        <rhGuitarFingeringFrameRound>25</rhGuitarFingeringFrameRound>
+        <partInstrumentFramePadding>0.5</partInstrumentFramePadding>
+        <partInstrumentFrameWidth>0.2</partInstrumentFrameWidth>
+        <partInstrumentFrameRound>25</partInstrumentFrameRound>
+        <tempoFramePadding>0.5</tempoFramePadding>
+        <tempoFrameWidth>0.2</tempoFrameWidth>
+        <tempoFrameRound>25</tempoFrameRound>
+        <systemFramePadding>0.5</systemFramePadding>
+        <systemFrameWidth>0.2</systemFrameWidth>
+        <systemFrameRound>25</systemFrameRound>
+        <staffAlign>left,top</staffAlign>
+        <staffPosAbove x="0" y="-4"/>
+        <staffFramePadding>0.5</staffFramePadding>
+        <staffFrameWidth>0.2</staffFrameWidth>
+        <staffFrameRound>25</staffFrameRound>
+        <repeatLeftFramePadding>0.5</repeatLeftFramePadding>
+        <repeatLeftFrameWidth>0.2</repeatLeftFrameWidth>
+        <repeatLeftFrameRound>25</repeatLeftFrameRound>
+        <repeatRightFramePadding>0.5</repeatRightFramePadding>
+        <repeatRightFrameWidth>0.2</repeatRightFrameWidth>
+        <repeatRightFrameRound>25</repeatRightFrameRound>
         <Spatium>1.76389</Spatium>
         </Style>
       <showInvisible>1</showInvisible>
       <showUnprintable>1</showUnprintable>
       <showFrames>1</showFrames>
       <showMargins>0</showMargins>
-      <metaTag name="partName">Baritone Oboe</metaTag>
+      <metaTag name="partName">Bassoon</metaTag>
       <Part>
         <Staff id="1">
           <linkedTo>3</linkedTo>
           <StaffType group="pitched">
             <name>stdNormal</name>
             </StaffType>
-          <defaultClef>G8vb</defaultClef>
+          <defaultClef>F</defaultClef>
           </Staff>
-        <trackName>Baritone Oboe</trackName>
+        <trackName>Bassoon</trackName>
         <Instrument>
-          <longName>Baritone Oboe</longName>
-          <shortName>Bar. Ob.</shortName>
-          <trackName>Baritone Oboe</trackName>
-          <minPitchP>47</minPitchP>
-          <maxPitchP>78</maxPitchP>
-          <minPitchA>47</minPitchA>
-          <maxPitchA>76</maxPitchA>
-          <instrumentId>wind.reed.oboe.bass</instrumentId>
-          <clef>G8vb</clef>
+          <longName>Bassoon</longName>
+          <shortName>Bsn.</shortName>
+          <trackName>Bassoon</trackName>
+          <minPitchP>34</minPitchP>
+          <maxPitchP>76</maxPitchP>
+          <minPitchA>34</minPitchA>
+          <maxPitchA>69</maxPitchA>
+          <instrumentId>wind.reed.bassoon</instrumentId>
+          <clef>F</clef>
           <Articulation>
             <velocity>100</velocity>
             <gateTime>100</gateTime>
@@ -17698,11 +17816,25 @@
             <gateTime>67</gateTime>
             </Articulation>
           <Articulation name="sforzato">
+            <velocity>150</velocity>
+            <gateTime>100</gateTime>
+            </Articulation>
+          <Articulation name="sforzatoStaccato">
+            <velocity>150</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoStaccato">
+            <velocity>120</velocity>
+            <gateTime>50</gateTime>
+            </Articulation>
+          <Articulation name="marcatoTenuto">
             <velocity>120</velocity>
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
-            <program value="68"/>
+            <controller ctrl="0" value="0"/>
+            <controller ctrl="32" value="17"/>
+            <program value="70"/>
             <synti>Fluid</synti>
             </Channel>
           </Instrument>
@@ -17726,7 +17858,7 @@
             </Text>
           <Text>
             <style>Instrument Name (Part)</style>
-            <text>Baritone Oboe</text>
+            <text>Bassoon</text>
             </Text>
           </VBox>
         <Measure len="1/4">
@@ -17743,13 +17875,13 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>1.33333</tempo>
+              <tempo>1.5</tempo>
               <followText>1</followText>
               <linked>
                 <location>
                   <staves>-2</staves>
                   </location>
-                <indexDiff>5</indexDiff>
+                <indexDiff>4</indexDiff>
                 </linked>
               <text><sym>metNoteQuarterUp</sym> = 90</text>
               </Tempo>
@@ -17788,18 +17920,12 @@
                   <staves>-2</staves>
                   </location>
                 </linked>
-              <offset x="2.3625" y="-2.55"/>
               <text>A</text>
               </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
-              <duration>20/4</duration>
+              <duration>24/4</duration>
               </Rest>
-            <location>
-              <fractions>1/1</fractions>
-              </location>
-            <BarLine>
-              </BarLine>
             </voice>
           </Measure>
         <Measure>
@@ -18111,9 +18237,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -18129,6 +18252,8 @@
               </Chord>
             <Breath>
               <symbol>breathMarkComma</symbol>
+              <linked>
+                </linked>
               </Breath>
             <Dynamic>
               <subtype>mp</subtype>
@@ -18323,6 +18448,7 @@
                 <subtype>articStaccatoBelow</subtype>
                 <linked>
                   </linked>
+                <visible>0</visible>
                 </Articulation>
               <Note>
                 <linked>
@@ -18340,6 +18466,7 @@
                 <subtype>articStaccatoBelow</subtype>
                 <linked>
                   </linked>
+                <visible>0</visible>
                 </Articulation>
               <Note>
                 <linked>
@@ -18557,9 +18684,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -18587,12 +18711,6 @@
           </Measure>
         <Measure>
           <voice>
-            <Dynamic>
-              <subtype>mp</subtype>
-              <velocity>64</velocity>
-              <linked>
-                </linked>
-              </Dynamic>
             <RehearsalMark>
               <linked>
                 <location>
@@ -18602,15 +18720,22 @@
                 </linked>
               <text>C</text>
               </RehearsalMark>
+            <Dynamic>
+              <subtype>mp</subtype>
+              <velocity>64</velocity>
+              <linked>
+                <indexDiff>1</indexDiff>
+                </linked>
+              </Dynamic>
             <Chord>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>half</durationType>
               <Spanner type="Slur">
                 <Slur>
                   <linked>
-                    <indexDiff>2</indexDiff>
+                    <indexDiff>1</indexDiff>
                     </linked>
                   </Slur>
                 <next>
@@ -18621,7 +18746,7 @@
                 </Spanner>
               <Note>
                 <linked>
-                  <indexDiff>2</indexDiff>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>50</pitch>
                 <tpc>16</tpc>
@@ -19477,9 +19602,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -19533,8 +19655,6 @@
               <durationType>measure</durationType>
               <duration>12/4</duration>
               </Rest>
-            <BarLine>
-              </BarLine>
             </voice>
           </Measure>
         <Measure>
@@ -20485,9 +20605,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -20575,7 +20692,6 @@
                   <staves>-2</staves>
                   </location>
                 </linked>
-              <offset x="-1.72125" y="-3.95625"/>
               <text>F</text>
               </RehearsalMark>
             <Dynamic>
@@ -20799,9 +20915,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -21003,6 +21116,7 @@
               </Rest>
             <Fermata>
               <subtype>fermataShortAbove</subtype>
+              <timeStretch>1.5</timeStretch>
               <linked>
                 </linked>
               </Fermata>
@@ -21040,7 +21154,7 @@
             </voice>
           </Measure>
         </Staff>
-      <name>Baritone Oboe</name>
+      <name>Bassoon</name>
       </Score>
     </Score>
   </museScore>
