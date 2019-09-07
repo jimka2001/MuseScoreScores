@@ -99,6 +99,18 @@
     <Staff id="1">
       <VBox>
         <height>10</height>
+        <Text>
+          <style>Title</style>
+          <text>Bassoon Concerto mvt II</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Vivaldi</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>Andante</text>
+          </Text>
         </VBox>
       <Measure>
         <irregular>1</irregular>
