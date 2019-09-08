@@ -2048,10 +2048,6 @@
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>ornamentTrill</subtype>
-              <ornamentStyle>baroque</ornamentStyle>
-              </Articulation>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
@@ -2745,6 +2741,11 @@
                 </next>
               </Spanner>
             <Note>
+              <Accidental>
+                <bracket>1</bracket>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
               </Note>
