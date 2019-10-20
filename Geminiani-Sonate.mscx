@@ -191,8 +191,16 @@
           <Tempo>
             <tempo>0.666667</tempo>
             <followText>1</followText>
+            <offset x="6.2292" y="-3.36389"/>
             <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 40</b></text>
             </Tempo>
+          <Sticking>
+            <style>Sticking</style>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-9.28023" y="-2.46554"/>
+            <text>Adagio</text>
+            </Sticking>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -1239,8 +1247,17 @@
           <Tempo>
             <tempo>1.16667</tempo>
             <followText>1</followText>
+            <minDistance>-0.191541</minDistance>
+            <offset x="1.77977" y="-2"/>
             <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70</b></text>
             </Tempo>
+          <Sticking>
+            <style>Sticking</style>
+            <placement>above</placement>
+            <minDistance>0.0703347</minDistance>
+            <offset x="-7.11908" y="-2.09124"/>
+            <text>Allegro</text>
+            </Sticking>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -4476,8 +4493,16 @@
           <Tempo>
             <tempo>1.16667</tempo>
             <followText>1</followText>
+            <offset x="9.28023" y="-2.25425"/>
             <text><b></b><font face="ScoreText"/><b><font face="FreeSerif"/> = 70</b></text>
             </Tempo>
+          <Sticking>
+            <style>Sticking</style>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-8.77173" y="-2.68226"/>
+            <text>Largo</text>
+            </Sticking>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -5338,9 +5363,16 @@
           <Tempo>
             <tempo>1.5</tempo>
             <followText>1</followText>
-            <offset x="2.28828" y="-2.25561"/>
+            <offset x="8.51747" y="-2.12849"/>
             <text><b></b><font face="ScoreText"/> <b><font face="FreeSerif"/> = 60</b></text>
             </Tempo>
+          <Sticking>
+            <style>Sticking</style>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-9.53449" y="-2.4039"/>
+            <text>Vivace</text>
+            </Sticking>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
