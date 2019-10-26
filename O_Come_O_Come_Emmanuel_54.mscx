@@ -826,9 +826,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <linkedMain/>
@@ -3981,6 +3978,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -4005,13 +4007,17 @@
             <linkedMain/>
             <durationType>half</durationType>
             </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <linkedMain/>
@@ -4047,6 +4053,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -7632,6 +7643,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -7671,13 +7687,17 @@
             <linkedMain/>
             <durationType>half</durationType>
             </Rest>
+          <Rest>
+            <linkedMain/>
+            <durationType>quarter</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Rest>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>half</durationType>
             </Rest>
           <Chord>
             <linkedMain/>
@@ -7727,6 +7747,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -11070,6 +11095,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -11081,8 +11111,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>whole</durationType>
             <Note>
               <linkedMain/>
               <Spanner type="Tie">
@@ -11106,8 +11135,7 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <dots>1</dots>
-            <durationType>half</durationType>
+            <durationType>whole</durationType>
             <Note>
               <linkedMain/>
               <Spanner type="Tie">
@@ -11135,6 +11163,11 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <linkedMain/>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -12200,9 +12233,13 @@
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>5</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>5/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -12210,12 +12247,16 @@
         <voice>
           <Rest>
             <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <duration>5/4</duration>
             </Rest>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <TimeSig>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
@@ -16567,6 +16608,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -16596,6 +16643,11 @@
                 </linked>
               <durationType>half</durationType>
               </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -16603,7 +16655,7 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
               </Rest>
             <Chord>
               <linked>
@@ -16645,6 +16697,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -21024,6 +21082,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -21069,6 +21133,11 @@
                 </linked>
               <durationType>half</durationType>
               </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <durationType>quarter</durationType>
+              </Rest>
             </voice>
           </Measure>
         <Measure>
@@ -21076,7 +21145,7 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>half</durationType>
               </Rest>
             <Chord>
               <linked>
@@ -21133,6 +21202,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -25271,6 +25346,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>5</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
@@ -25285,8 +25366,7 @@
             <Chord>
               <linked>
                 </linked>
-              <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>whole</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -25313,8 +25393,7 @@
             <Chord>
               <linked>
                 </linked>
-              <dots>1</dots>
-              <durationType>half</durationType>
+              <durationType>whole</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -25345,6 +25424,12 @@
           </Measure>
         <Measure>
           <voice>
+            <TimeSig>
+              <linked>
+                </linked>
+              <sigN>4</sigN>
+              <sigD>4</sigD>
+              </TimeSig>
             <Chord>
               <linked>
                 </linked>
