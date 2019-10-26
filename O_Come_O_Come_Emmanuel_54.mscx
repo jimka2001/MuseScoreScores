@@ -2364,12 +2364,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2465,12 +2462,9 @@
             <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              <tpc2>20</tpc2>
+              <pitch>75</pitch>
+              <tpc>11</tpc>
+              <tpc2>13</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -2541,6 +2535,9 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>76</pitch>
               <tpc>18</tpc>
               <tpc2>20</tpc2>
@@ -10974,7 +10971,7 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -10991,7 +10988,25 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>quarter</durationType>
+            <durationType>16th</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>16th</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
                 <linkedMain/>
@@ -11002,6 +11017,33 @@
                   </location>
                 </next>
               </Spanner>
+            <Note>
+              <linkedMain/>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>16th</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>51</pitch>
+              <tpc>11</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>16th</durationType>
+            <Note>
+              <linkedMain/>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <linkedMain/>
+            <durationType>16th</durationType>
             <Note>
               <linkedMain/>
               <pitch>55</pitch>
@@ -14746,12 +14788,9 @@
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
+                <pitch>75</pitch>
+                <tpc>11</tpc>
+                <tpc2>13</tpc2>
                 </Note>
               </Chord>
             <Chord>
@@ -14865,12 +14904,9 @@
               <Note>
                 <linked>
                   </linked>
-                <Accidental>
-                  <subtype>accidentalSharp</subtype>
-                  </Accidental>
-                <pitch>76</pitch>
-                <tpc>18</tpc>
-                <tpc2>20</tpc2>
+                <pitch>75</pitch>
+                <tpc>11</tpc>
+                <tpc2>13</tpc2>
                 </Note>
               </Chord>
             <Chord>
@@ -14954,6 +14990,9 @@
               <Note>
                 <linked>
                   </linked>
+                <Accidental>
+                  <subtype>accidentalSharp</subtype>
+                  </Accidental>
                 <pitch>76</pitch>
                 <tpc>18</tpc>
                 <tpc2>20</tpc2>
@@ -25198,7 +25237,7 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>eighth</durationType>
               <Spanner type="Slur">
                 <prev>
                   <location>
@@ -25217,7 +25256,29 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>quarter</durationType>
+              <durationType>16th</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>46</pitch>
+                <tpc>12</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>48</pitch>
+                <tpc>14</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               <Spanner type="Slur">
                 <Slur>
                   <linked>
@@ -25229,6 +25290,39 @@
                     </location>
                   </next>
                 </Spanner>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>50</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>51</pitch>
+                <tpc>11</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>53</pitch>
+                <tpc>13</tpc>
+                </Note>
+              </Chord>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>16th</durationType>
               <Note>
                 <linked>
                   </linked>
