@@ -193,13 +193,13 @@
           <Tempo>
             <tempo>0.666667</tempo>
             <followText>1</followText>
-            <offset x="6.2292" y="-3.36389"/>
+            <offset x="3.55954" y="-3.61814"/>
             <text><b></b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 40</b></text>
             </Tempo>
           <Sticking>
             <placement>above</placement>
-            <minDistance>-999</minDistance>
-            <offset x="-9.28023" y="-2.46554"/>
+            <minDistance>0.379117</minDistance>
+            <offset x="-10.043" y="-0.940022"/>
             <text>Adagio</text>
             </Sticking>
           <Chord>
