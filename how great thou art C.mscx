@@ -136,6 +136,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="68"/>
           <synti>Fluid</synti>
@@ -231,10 +232,6 @@
           <text>How Great Thou Art</text>
           </Text>
         <Text>
-          <style>Composer</style>
-          <text></text>
-          </Text>
-        <Text>
           <style>Subtitle</style>
           <text>Scottish Folk Melody</text>
           </Text>
@@ -245,9 +242,6 @@
         </VBox>
       <Measure len="3/8">
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -255,7 +249,7 @@
           <Tempo>
             <tempo>1</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 60</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 60</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -1346,17 +1340,10 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2199,9 +2186,6 @@
     <Staff id="2">
       <Measure len="3/8">
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
@@ -4810,9 +4794,6 @@
     <Staff id="3">
       <Measure len="3/8">
         <voice>
-          <KeySig>
-            <accidental>0</accidental>
-            </KeySig>
           <TimeSig>
             <sigN>4</sigN>
             <sigD>4</sigD>
