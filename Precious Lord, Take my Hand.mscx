@@ -1152,7 +1152,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <linkedMain/>
               <pitch>69</pitch>
@@ -1161,11 +1161,11 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <linkedMain/>
-              <pitch>77</pitch>
-              <tpc>13</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1188,7 +1188,7 @@
             </Chord>
           <Chord>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
               <Accidental>
@@ -5919,8 +5919,11 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>45</pitch>
-              <tpc>17</tpc>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>44</pitch>
+              <tpc>10</tpc>
               </Note>
             <Note>
               <pitch>51</pitch>
@@ -9315,7 +9318,7 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>16th</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -9326,12 +9329,14 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>16th</durationType>
+              <Stem>
+                </Stem>
               <Note>
                 <linked>
                   </linked>
-                <pitch>77</pitch>
-                <tpc>13</tpc>
+                <pitch>70</pitch>
+                <tpc>12</tpc>
                 </Note>
               </Chord>
             <Chord>
@@ -9359,7 +9364,7 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <durationType>quarter</durationType>
               <Note>
                 <linked>
                   </linked>
