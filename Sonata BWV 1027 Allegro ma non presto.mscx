@@ -10362,10 +10362,17 @@
               </Note>
             </Chord>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <pitch>57</pitch>
               <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
